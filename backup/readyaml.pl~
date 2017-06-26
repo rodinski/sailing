@@ -1,0 +1,14 @@
+use strict;
+use warnings;
+use feature 'say';
+use Math::Round;
+#use Text::Table;
+use Scalar::Util qw( looks_like_number );
+use YAML qw( LoadFile Load Dump ); #LoadFile isn't exported by default
+use Data::Dumper;
+my ($all,$two) = LoadFile('./test2.yaml');
+system ( 'clear' );
+#say Dumper ($all);
+#
+say Dump ($all);
+say Dump ($two);

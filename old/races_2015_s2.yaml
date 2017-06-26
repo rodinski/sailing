@@ -1,0 +1,310 @@
+---
+ # I no longer need to input the boat for each of the known skippers
+ # except for cases where the skipper is not sailing his normal boat
+ # like Rod has done in the series.   See race 5 and after.
+ # 
+race:
+  1:
+    wind: 4
+    date: 2015_06_21
+    RC:
+      - Stacy_O
+      - Ken_B
+    notes: "Lighting after the first mark of race 1."
+    skip:
+  2:
+    wind: 4
+    date: 2015_06_21
+    RC:
+      - Stacy_O
+      - Ken_B
+    notes: "Race never started due to previous lighting."
+    skip:
+  3:
+    wind: 2-3
+    date: 2015_06_28
+    notes: "I course 3 laps RC from the Dock. Paul_B broke his boom."
+    RC:
+      - Pat_B
+      - David_Bu
+    skip:
+      Art_M:
+        boat: SWSX
+        time: 46:40
+      Paul_B:
+        boat: BCN
+        time: DNF
+      Jay_H:
+        boat: SWSX
+        time: 61:29
+      Rod_H:
+        boat: LASEM
+        time: 51:53
+      Ron_F:
+        boat: F5 
+        time: 47:16
+  4:
+    wind: 2-3
+    date: 2015_06_28
+    notes: "I course 2 laps RC from the Dock"
+    RC:
+      - Pat_B
+      - David_Bu
+    skip:
+      Ron_F:
+        boat: F5 
+        time: 34:45
+      Rod_H:
+        boat: LASEM
+        time: 36:12
+      Art_M:
+        boat: SWSX
+        time: 38:22
+      Jay_H:
+        boat: SWSX
+        time: 39:25
+  5:
+    wind: 2-3
+    notes: "M course 3 laps Starboard rounding."
+    date: 2015_07_12
+    RC:
+      - Barry_O
+      - Bill_P
+    skip:
+      John_T:
+        time: 29:19
+      Mike_F:
+        time: 31:29
+      Rod_H:
+        boat: LASEM
+        time: 31:44
+      Ron_F:
+        time: 32:53
+      Nedra_F:
+        time: 33:08
+      Pat_B:
+        time: 34:57
+      Jay_H:
+        time: 35:51
+      Stacy_O:
+        time: 37:47
+      Betsy_H:
+        time: 38:05
+  6:
+    wind: 2-3
+    date: 2015_07_12
+    notes: "M course 3 laps Starboard rounding."
+    RC:
+      - Barry_O
+      - Bill_P
+    skip:
+      # now I can use default boat for a given skipper
+      Ron_F:
+        time: 31:01
+      John_T:
+        time: 31:38
+      Rod_H:
+        boat: LASEM
+        time: 32:08
+      Pat_B:
+        time: 32:14
+      Jay_H:
+        time: 33:01
+      Mike_F:
+        time: 33:32
+      Nedra_F:
+        time: 34:09
+      Stacy_O:
+        time: 35:05
+      Ralph_H:
+        time: 37:07
+  7:
+    wind: 0-1
+    date: 2015_07_26
+    notes: "M course 2 laps Starboard rounding."
+    RC:
+      - Ron_F
+      - Ralph_H
+    skip:
+      Betsy_H:
+        time: 73:53
+      David_Bu:
+        time: 73:31
+      Mike_F:
+        time: 47:23
+      Nedra_F:
+        time: 52:57
+      Art_M:
+        time: 73:56
+      Gail_B:
+        time: 69:54
+      Anita_M:
+        time: 75:36
+      Bill_P:
+        time: 68:50
+      John_T:
+        time: 45:48
+      Pat_B:
+        time: 72:47
+      Paul_B:
+        time: 46:24
+        boat: BCN
+      Rod_H:
+        boat: LASEM
+        time: 52:45
+      Lewis_V: 
+        boat: SF
+        time: 74:25
+      Barry_O:
+        time: DNF 
+  8:
+    wind: 0-1
+    date: 2015_07_26
+    notes: "M course 2, shorter, laps Starboard rounding."
+    RC:
+      - Ron_F
+      - Ralph_H
+    skip:
+      Betsy_H:
+        time: 53:25
+      David_Bu:
+        time: 45:51
+      Mike_F:
+        time: 45:03
+      Nedra_F:
+        time: 55:47
+      Art_M:
+        time: 48:38
+      Gail_B:
+        time: 62:14
+      Anita_M:
+        time: 68:11
+      Bill_P:
+        time: 38:52
+      John_T:
+        time: 34:31
+      Pat_B:
+        time: 47:20
+      Paul_B:
+        time: 33:00
+      Rod_H:
+        boat: LASEM
+        time: 46:17
+      Lewis_V: 
+        boat: SF
+        time: 52:45
+      Barry_O:
+        time: 64:31 
+      Adrien_V:
+        boat: LASE
+        time: 45:29 
+  9:
+    wind: 2-3
+    date: 2015_08_02
+    notes: "F1 course. Port Rounding.  Out to 1)dog cove, 2)c cove ,3)b/w docks,1,3"
+    RC:
+      - Mike_F
+      - Nedra_F
+    skip:
+      Ralph_H:
+        time: 42:49
+      David_Bu:
+        time: 32:54
+      Art_M:
+        time: 31:37
+      Jay_H:
+        time: 33:45
+      Ken_B:
+        time: 37:01
+      Sara_M:
+        boat: SWSX
+        time: 31:12
+      Stacy_O:
+        time: 41:50
+      Pat_B:
+        time: 31:18
+      Rod_H:
+        boat: LASEM
+        time: 32:18
+      Lewis_V: 
+        boat: SF
+        time: 42:58
+      Barry_O:
+        time: 42:08 
+      Adrien_V:
+        boat: LASE
+        time: 32:24
+      Ron_F:
+        boat: F5 
+        time: 31:48
+  10:
+    wind: 2-3
+    date: 2015_08_02
+    notes: "F1 course. Port Rounding.  Out to 1)dog cove, 2)c cove ,3)b/w docks,1,3"
+    RC:
+      - Mike_F
+      - Nedra_F
+    skip:
+      Betsy_H:
+        time: 40:46
+      David_Bu:
+        time: 40:20
+      Art_M:
+        time: 34:11
+      Jay_H:
+        time: 34:58
+      Ken_B:
+        time: 38:38
+      Sara_M:
+        time: 34:29
+      Stacy_O:
+        time: 40:28
+      Pat_B:
+        time: 36:24
+      Rod_H:
+        boat: LASEM
+        time: 36:52
+      Barry_O:
+        time: 45:13
+      Adrien_V:
+        time: 35:41
+      Ron_F:
+        time: 32:10
+  11:
+    wind: 0-1
+    date: 2015_08_09
+    notes: "I course. Port Rounding.  shortened to 1 lap"
+    RC:
+      - Stacy_O
+      - Lewis_V
+    skip:
+      Mike_F:
+        time: 30:07
+      Nedra_F:
+        time: 29:07
+      Art_M:
+        time: 28:24
+      John_T:
+        time: 27:46
+      Ron_F:
+        time: 28:15
+  12:
+    wind: 0-1
+    date: 2015_08_09
+    notes: "I course. Port Rounding.  2 laps"
+    RC:
+      - Stacy_O
+      - Lewis_V
+    skip:
+      Mike_F:
+        time: 42:14
+      Nedra_F:
+        time: 44:04
+      Art_M:
+        time: 43:26
+      John_T:
+        time: 37:21
+      Ron_F:
+        time: 39:48
+ # comment line
+ # comment line

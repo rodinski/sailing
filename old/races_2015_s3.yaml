@@ -1,0 +1,188 @@
+---
+ # I no longer need to input the boat for each of the known skippers
+ # except for cases where the skipper is not sailing his normal boat
+ # like Rod has done in the series.   See race 5 and after.
+ # 
+race:
+  1:
+    wind: 2-3
+    date: 2015_08_16
+    RC:
+      - John_T
+      - Rod_H
+    notes: "M3"
+    skip:
+      Art_M:
+        time: 43:03
+      Bill_P:
+        time: 41:34
+      David_Bu:
+        time: DNF
+      Gail_B:
+        time: 61:10
+      Jay_H:
+        time: 56:08
+      Lewis_V: 
+         boat: SF
+         time: 51:42
+      Mike_F:
+         time: 45:46
+      Nedra_F:
+         time: 47:37
+      Pat_B:
+         time: 47:14
+      Paul_B:
+         time: 44:56
+      Ron_F:
+         time: 45:27
+      Laura_B:
+         boat: PHNTM
+         time: 60:56
+  2:
+    wind: 2-3
+    date: 2015_08_16
+    RC:
+      - John_T
+      - Rod_H
+    notes: "M2"
+    skip:
+      Art_M:
+        time: 35:26
+      Bill_P:
+          time: 31:36
+      David_Bu:
+          time: 34:08
+      Gail_B:
+        time: 53:35
+      Jay_H:
+        time: 35:30
+      Lewis_V: 
+         boat: SF
+         time: 40:30
+      Mike_F:
+         time: 35:38
+      Nedra_F:
+         time: 36:06
+      Pat_B:
+         time: 35:14
+      Paul_B:
+         time: 30:52
+      Ron_F:
+         time: 32:43
+  3:
+    wind: 0-1
+    date: 2015_08_30
+    RC:
+      - Gail_B
+    notes: "I-2-90 Port.  Winds came and went, Pauls started on LHS alone on port"
+    skip:
+      Ralph_H:
+        boat: SF
+        time: 58:04
+      Mike_F:
+        time: 56:13
+      Nedra_F:
+        time: 56:37
+      Art_M:
+        time: 55:30
+      Jay_H:
+        time: 54:26
+      Bill_P:
+        time: 52:31
+      Lewis_V: 
+        boat: SF
+        time: 63:40
+      Pat_B:
+        time: 56:30
+      Paul_B:
+        time: 49:20
+      Rod_H:
+        time: 53:33
+      Ron_F:
+        time: 52:14
+ # comment line
+  4:
+    wind: 0-1
+    date: 2015_08_30
+    RC:
+      - Gail_B
+    notes: "I-2-90 Port." 
+    skip:
+      Besy_H:
+        boat: SF
+        time: 43:59
+      Mike_F:
+        time: 39:36
+      Nedra_F:
+        time: 44:24
+      Art_M:
+        time: 45:16
+      Jay_H:
+        time: 53:36
+      Bill_P:
+        time: 37:43
+      Lewis_V: 
+        boat: SF
+        time: 54:13
+      Pat_B:
+        time: 45:28
+      Paul_B:
+        time: 39:02
+      Rod_H:
+        time: 48:54
+      Ron_F:
+        time: 37:14
+      Adrian_V:
+        boat: LASE
+        time: 42:06
+
+  5:
+    wind: 2-3
+    date: 2015_09_13
+    RC:
+      - Ed_R
+      - Ken_B
+    notes: "M2I2+,  Starboard Rounding 170 also thank you Lynn and MJ" 
+    skip:
+      Mike_F:
+        time: 39:04
+      Nedra_F:
+        time: 43:42
+      Art_M:
+        time: 42:08
+      Jay_H:
+        time: DNF
+      Bill_P_SF:
+        boat: SF
+        time: 43:57
+      Pat_B:
+        time: 42:37
+      Anita_M:
+        time: DNF
+
+  6:
+    wind: 2-3
+    date: 2015_09_13
+    RC:
+      - Ed_R
+      - Ken_B
+    notes: "M2I2+,  Starboard Rounding 170  also thank you Lynn and MJ" 
+    skip:
+      Mike_F:
+        time: 38:00
+      Nedra_F:
+        time: 43:17
+      Art_M:
+        time: 37:52
+      Jay_H:
+        time: 39:54
+      Bill_P_SF:
+        boat: SF
+        time: 44:10
+      Pat_B:
+        time: DNF
+      Rod_H_SF:
+        boat: SF
+        time: DNF
+      Anita_M:
+        time: DNS

@@ -1,0 +1,67 @@
+Level1:
+  quote: |  
+    why don't i get
+    real words in here
+  quote1: |  
+    this that
+    the other
+    and more ...
+  L2:
+    - item 1: value
+    - item 2: value2
+  L3: something
+---
+First:
+  key1: value1
+  key2: value2
+  key3: value3
+  key4: value4
+  race:
+    wind: wind
+    date: 2016_0x_xx
+    RC:
+      - rc1
+      - rc2
+    notes: "notes"
+    skip:
+      skipper:
+        time: min:sec
+        
+#  skipper:
+#    rod_h:
+#      boat: PUG
+#      time: 12:14
+#    mike_:
+#      time: 44:55
+#    a:
+#      time: 11:22
+#    b:
+#      time: 44:33
+#    c:
+#      time: 88:44
+#    d:
+#      time: 22:44
+#    e:
+#      time: 44:22 
+#  O:
+#    wind: wind
+#    date: 2016_0x_xx
+#    RC:
+#      - rc1
+#      - rc2
+#    notes: >
+#      here is a
+#      littl run
+#      of text
+#    skip:
+#      skipper:
+#        time: min:se     
+#          - rc3
+#          - rc4
+#          - kj
+#          - n
+#            text: >
+#              itkl lial lal
+#              alkdl
+#            key: value
+#            key2: val

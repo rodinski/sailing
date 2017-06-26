@@ -1,0 +1,47 @@
+2015_05_31			R7
+			A_time
+John	US-1		34:26
+Rod	PUF		44:23
+Jay	SWSX		39:57
+Bill	VGD15		38:15
+Mike	SF		42:15
+Dave	LASE		38:51
+Nedra	SF		42:36
+Pat	WF		41:39
+			
+			
+			
+			
+2015_05_31		      R8
+			time
+John	US-1		40:05
+Bill	VGD15		40:13
+Rod	PUF		50:18
+Mike	SF		46:08
+Paul	BCN		40:00
+Nedra	SF		50:45
+Dave	LASE		50:00
+Pat	WF		51:17
+Jay	SWSX		55:40
+			
+			
+			
+			
+2015_06_07		      R9
+			time
+Mike	SF		41:07
+Paul	BCN		37:17
+Rod	PUF		47:37
+Pat	WF		44:21
+David	SF		51:11
+Jay	SWSX		51:21
+			
+			
+			
+2015_06_07		      R10
+			time
+Paul	BCN		22:20
+Barry	HLR14		32:16
+Rod	PUF		35:38
+Pat	WF		29:48
+Jay	SWSX		39:30        

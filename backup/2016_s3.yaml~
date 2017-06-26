@@ -1,0 +1,298 @@
+---
+ # I no longer need to input the boat for each of the known skippers
+ # except for cases where the skipper is not sailing his normal boat
+ # like Rod has done in the series.   See race 5 and after.
+ # 
+race:
+  1:
+    wind: 2-3
+    date: 2016_08_14
+    RC:
+      - Pat_B
+      - John_T
+    notes: "I2 90"
+    skip:
+      Art_M:
+        time: 26:04
+      Bill_P:
+        time: 29:18 
+      Chris_E:
+        time: 30:35
+      David_Bu:
+        time: 30:30
+      Jay_H:
+        time: 32:12
+        boat: SWSX
+      Lewis_V:
+        time: 29:47
+      Mike_F:
+        time: 28:21
+      Mike_S:
+        time: 36:16
+      Nedra_F:
+        time: 36:10
+      Rod_H:
+        boat: LASEM
+        time: 28:18
+      Ron_F:
+        time: 27:11
+      Stacy_O:
+        time: 43:00
+  2:
+    wind: 2-3
+    date: 2016_08_14
+    RC:
+      - Pat_B
+      - John_T
+    notes: "F1 90"
+    skip:
+      Art_M:
+        time: 30:53
+      Bill_P:
+        time: 32:36 
+      David_Bu:
+        time: 29:24
+      Jay_H:
+        time: 35:27
+        boat: SWSX
+      Lewis_V:
+        time: 34:20
+      Mike_F:
+        time: 31:44
+      Mike_S:
+        boat: FSCT
+        time: 36:29
+      Nedra_F:
+        time: 37:37
+      Rod_H:
+        boat: LASEM
+        time: 31:47
+      Ron_F:
+        time: 31:31
+      Stacy_O:
+        time: 42:22
+  3:
+    wind: 2-3
+    date: 2016_08_21
+    RC:
+      - Paul_B
+      - Nick_H
+    notes: "M2 270"
+    skip:
+      Art_M:
+        time: 51:44
+      Bill_P:
+        time: 50:56 
+      David_Bu:
+        time: 53:11
+      Jay_H:
+        time: 54:08
+        boat: SWSX
+      Mike_F:
+        time: 50:47
+      John_T:
+        time: 36:45
+      Nedra_F:
+        time: 53:50
+      Rod_H:
+        boat: LASEM
+        time: 53:30
+      Steve_R:
+        time: 53:36
+  4:
+    wind: 2-3
+    date: 2016_08_21
+    RC:
+      - Paul_B
+      - Nick_H
+    notes: "I2 270"
+    skip:
+      Art_M:
+        time: 30:15
+      Bill_P:
+        time: 25:39 
+      David_Bu:
+        time: 26:20
+      Jay_H:
+        time: 31:03
+        boat: SWSX
+      Mike_F:
+        time: 25:53
+      John_T:
+        time: 24:22
+      Nedra_F:
+        time: 28:10
+      Rod_H:
+        boat: LASEM
+        time: 30:39
+      Steve_R:
+        time: 31:25
+  5:
+    wind: 2-3
+    date: 2016_08_21
+    RC:
+      - Bill_P
+      - Jay_H
+    notes: "M2 190"
+    skip:
+      Art_M:
+        time: 35:58
+      Gail_B:
+        time: 47:30
+      Lewis_V:
+        time: 31:04
+      Pat_B:
+        time: 42:21
+      John_T:
+        time: 30:07
+      Ralph_H:
+        time: 38:46
+      Rod_H:
+        boat: LASEM
+        time: 36:57
+      Ron_F:
+        time: 30:53
+  6:
+    wind: 2-3
+    date: 2016_08_21
+    RC:
+      - Bill_P
+      - Jay_H
+    notes: "M2 190"
+    skip:
+      Art_M:
+        time: 30:21
+      Gail_B:
+        time: 41:43
+      Lewis_V:
+        time: 30:01
+      Pat_B:
+        time: 30:40
+      John_T:
+        time: 29:00
+      Ralph_H:
+        time: 36:44
+      Rod_H:
+        boat: LASEM
+        time: 31:15
+      Ron_F:
+        time: 30:29
+  7:
+    wind: 2-3
+    date: 2016_09_11
+    RC:
+      - David_Bu
+      - Mike_S
+    notes: "G2 180"
+    skip:
+      Art_M:
+        time: 40:42
+      Barry_O:
+        time: 43:29
+      Bill_P:
+        time: 32:45
+      Chris_E:
+        time: 36:29
+      Lewis_V:
+        time: 31:03
+      Mike_F:
+        time: 34:42
+      Nedra_F:
+        time: 42:44
+      Pat_B:
+        time: 36:59
+      Ralph_H:
+        time: 42:27
+      Rod_H:
+        time: 38:18
+        boat: LASEM
+      Ron_F:
+        time: 30:05
+  8:
+    wind: 2-3
+    date: 2016_09_11
+    RC:
+      - David_Bu
+      - Mike_S
+    notes: "G2 180  Port Rounding, ART !!!"
+    skip:
+      Art_M:
+        time: 36:18
+      Barry_O:
+        time: 39:39
+      Bill_P:
+        time: 35:10
+      Chris_E:
+        time: 33:44
+      Mike_K:
+        time: 40:00
+        boat: SWSX
+      Lewis_V:
+        time: 31:26
+      Mike_F:
+        time: 33:26
+      Nedra_F:
+        time: 34:36
+      Pat_B:
+        time: 34:29
+      Ralph_H:
+        time: 36:39
+      Rod_H:
+        time: 33:12
+        boat: LASEM
+      Ron_F:
+        time: 30:27
+  9:
+    wind: 2-3
+    date: 2016_09_18
+    RC:
+      - Ron_F
+    notes: "M"
+    skip:
+      Anita_M:
+        time: 50:30
+      Art_M:
+        time: 35:19
+      Bill_P:
+        time: 39:16
+      Chris_E:
+        time: 38:02
+      David_Bu:
+        time: 40:17
+      Lewis_V:
+        time: 34:27
+      Mike_F:
+        time: 41:21
+      Nedra_F:
+        time: 40:20
+      Pat_B:
+        time: 49:42
+      Ralph_H:
+        time: 50:02
+  10:
+    wind: 2-3
+    date: 2016_09_18
+    RC:
+      - Ron_F
+    notes: "M"
+    skip:
+      Anita_M:
+        time: 42:24
+      Art_M:
+        time: 35:49
+      Bill_P:
+        time: 35:54
+      Chris_E:
+        time: 38:32
+      David_Bu:
+        time: 37:37
+      Lewis_V:
+        time: 30:45
+      Mike_F:
+        time: 32:04
+      Nedra_F:
+        time: 41:32
+      Pat_B:
+        time: 33:03
+      Ralph_H:
+        time: 37:51

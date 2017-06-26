@@ -1,0 +1,70 @@
+---
+ # I no longer need to input the boat for each of the known skippers
+ # except for cases where the skipper is not sailing his normal boat
+ # like Rod has done in the series.   See race 5 and after.
+ # 
+race:
+  1:
+    wind: ?
+    date: 2017_04_30
+    RC:
+      - Barry_O
+      - Rod_H
+    notes: "no races, due to rain"
+    skip:
+  2:
+    wind: ?-?
+    date: 2017_04_30
+    RC:
+      - Barry_O
+      - Rod_H
+    notes: "no races, due to rain"
+    skip:
+
+  3:
+    wind: 2-3
+    date: 2017_07_07
+    RC:
+      - John_T
+      - Mike_S
+      - Ralph_H
+    notes: "M3 180" 
+    skip:
+      Art_M:
+        time: 36:23
+      Barry_O:
+        time: 45:32
+      Bill_P:
+        time: 41:24
+      Chris_E:
+        time: 38:35
+      Lewis_V:
+        time: 37:31
+      Mike_F:
+        time: 38:15
+      Nedra_F:
+        time: 40:22
+  4:
+    wind: 2-3
+    date: 2017_07_07
+    RC:
+      - John_T
+      - Mike_S
+      - Ralph_H
+    notes: "M3 180" 
+    skip:
+      Art_M:
+        time: 41:17
+      Barry_O:
+        time: DNF
+      Bill_P:
+        time: 43:42
+      Chris_E:
+        time: 49:50
+      Lewis_V:
+        time: 41:26
+      Mike_F:
+        time: 43:49
+      Nedra_F:
+        time: 43:08
+      

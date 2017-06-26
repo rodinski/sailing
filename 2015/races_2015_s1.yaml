@@ -1,0 +1,265 @@
+---
+race:
+  1:
+    wind: 2-3 
+    RC:
+      - Mike_F
+      - Nedra_F
+    skip:
+      Art:
+        boat: SWSX
+        time: 28:21
+      Paul:
+        boat: BCN
+        time: 25:43
+      Jay:
+        boat: SWSX
+        time: 29:18
+      Rod:
+        boat: PUF
+        time: 35:25
+      Pat:
+        boat: WF
+        time: DNF
+      Bill_P:
+        boat: VGD15
+        time: DNF
+  2:
+    wind: 4
+    RC:
+      - Mike_F
+      - Nedra_F
+    skip:
+      Rod:
+        boat: PUF
+        time: 31:48
+      Art:
+        boat: SWSX
+        time: 28:48
+      Paul:
+        boat: BCN
+        time: 26:24
+      Jay:
+        boat: SWSX
+        time: 31:49
+      Pat:
+        boat: WF
+        time: 31:08
+  3:
+    wind: 0-1
+    RC:
+      - John
+      - Stacy
+  4:
+    wind: 0-1
+    RC:
+      - John
+      - Stacy
+  5:
+    wind: 0-1
+    RC:
+      - Rod
+      - Bill_P
+  6:
+    wind: 0-1
+    RC:
+      - Rod
+      - Bill_P
+  7:
+    wind: 2-3
+    RC:
+      - Barry
+      - Sara
+    skip:
+      Mike_F:
+        boat: SF
+        time: 42:15
+      Nedra_F:
+        boat: SF
+        time: 42:36
+      Jay:
+        boat: SWSX
+        time: 39:57
+      Bill_P:
+        boat: VGD15
+        time: 38:15
+      John:
+        boat: US-1
+        time: 34:26
+      Pat:
+        boat: WF
+        time: 41:39
+      Rod:
+        boat: PUF
+        time: 44:23
+      Dave_Bl:
+        boat: LASE
+        time: 38:51
+  8:
+    wind: 2-3
+    RC:
+      - Barry
+      - Sara
+    skip:
+      Mike_F:
+        boat: SF
+        time: 46:08
+      Nedra_F:
+        boat: SF
+        time: 50:45
+      Jay:
+        boat: SWSX
+        time: 55:40
+      Bill_P:
+        boat: VGD15
+        time: 40:13
+      John:
+        boat: US-1
+        time: 40:05
+      Pat:
+        boat: WF
+        time: 51:17
+      Paul:
+        boat: BCN
+        time: 40:00
+      Rod:
+        boat: PUF
+        time: 50:18
+      Dave_Bl:
+        boat: LASE
+        time: 50:00
+  9:
+    wind: 4
+    RC:
+      - Art
+      - Alison_S
+      - Bill_P
+    skip:
+
+      Mike_F:
+        boat: SF
+        time: 41:07
+      Paul:
+        time: 37:17 
+        boat: BCN
+      Rod:
+        time: 47:37 
+        boat: PUF
+      Pat:
+        time: 44:21 
+        boat: WF
+      David_Bu:
+        time: 51:11 
+        boat: SF
+      Jay:
+        time: 51:21 
+        boat: SWSX
+      Barry:
+        boat: HLR14
+        time: DNF 
+      Dave_Bl:
+        time: DNF 
+        boat: LASE
+  10:
+    wind: 4 
+    RC:
+      - Art
+      - Alison_S
+      - Bill_P
+    skip:
+      Paul:
+        time: 22:20
+        boat: BCN
+      Barry:
+        boat: HLR14
+        time: 32:16
+      Rod:
+        time: 35:38
+        boat: PUF
+      Pat:
+        time: 29:48
+        boat: WF
+      Jay:
+        time: 39:30 
+        boat: SWSX
+      Mike_F:
+        time: DNS 
+        boat: SF
+      Dave_Bl:
+        time: DNS 
+        boat: LASE
+      David_Bu:
+        boat: SF
+        time: DNS 
+  11:
+    wind: 0-1 
+    RC:
+      - Paul
+      - Nick_H
+    skip:
+      John:
+        time: 27:09
+        boat: US-1
+      Mike_F:
+        time: 29:51
+        boat: SF
+      Nedra_F:
+        boat: SF
+        time: 30:10
+      Rod:
+        time: 32:32
+        boat: PUF
+      Barry:
+        boat: HLR14
+        time: 37:49
+      Art:
+        boat: SWSX
+        time: 28:58
+      Ron:
+        boat: F5 
+        time: 27:35
+      Sara:
+        boat: SWSX
+        time: 33:18
+      Gail:
+        boat: SWSX
+        time: DNF
+  12:
+    wind: 2-3 
+    RC:
+      - Paul
+      - Nick_H
+    skip:
+      John:
+        time: 20:11
+        boat: US-1
+      Mike_F:
+        time: 23:21
+        boat: SF
+      Nedra_F:
+        boat: SF
+        time: 27:01
+      Rod:
+        time: 28:08
+        boat: PUF
+      Barry:
+        boat: HLR14
+        time: 35:00
+        FIP:  9
+      Art:
+        boat: SWSX
+        time: 27:21
+      Ron:
+        boat: F5 
+        time: 25:09
+      Sara:
+        boat: SWSX
+        time: 28:18
+      Gail:
+        boat: SWSX
+        time: 50:00
+        fip:  9
+      Eliot:
+        boat: LASE2
+        time: 34:09
+        fip:  10

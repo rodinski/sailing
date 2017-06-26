@@ -1,0 +1,125 @@
+---
+race:
+  1:
+    wind: 4
+    RC:
+      - Stacy_O
+      - Ken_B
+    notes: "Lighting after the first mark of race 1."
+    skip:
+  2:
+    wind: 4
+    RC:
+      - Stacy_O
+      - Ken_B
+    notes: "Race never started due to previous lighting."
+    skip:
+  3:
+    wind: D-PN
+    RC:
+      - Pat_B
+      - David_Bu
+    skip:
+      Art_M:
+        boat: SWSX
+        time: 46:40
+      Paul_B:
+        boat: BCN
+        time: DNF
+      Jay_H:
+        boat: SWSX
+        time: 61:29
+      Rod_H:
+        boat: LASEM
+        time: 51:53
+      Ron_F:
+        boat: F5 
+        time: 47:16
+      Paul_B:
+        boat: BCN
+        time: DNF 
+  4:
+    wind: 2-3
+    RC:
+      - Pat_B
+      - David_Bu
+    skip:
+      Ron_F:
+        boat: F5 
+        time: 34:45
+      Rod_H:
+        boat: LASEM
+        time: 36:12
+      Art_M:
+        boat: SWSX
+        time: 38:22
+      Jay_H:
+        boat: SWSX
+        time: 39:25
+  5:
+    wind: 2-3
+    RC:
+      - Barry_O
+      - Bill_P
+    skip:
+      John_T:
+        boat: US-1
+        time: 29:19
+      Mike_F:
+        boat: SF
+        time: 31:29
+      Rod_H:
+        boat: LASEM
+        time: 31:44
+      Ron_F:
+        boat: F5 
+        time: 32:53
+      Nedra_F:
+        boat: SF
+        time: 33:08
+      Pat_B:
+        boat: WF
+        time: 34:57
+      Jay_H:
+        boat: SWSX
+        time: 35:51
+      Stacy_O:
+        boat: SWSX
+        time: 37:47
+      Betsy_H:
+        boat: SF
+        time: 38:05
+
+  6:
+    wind: 2-3
+    RC:
+      - Barry_O
+      - Bill_P
+    skip:
+      John_T:
+        boat: US-1
+        time: 31:38
+      Mike_F:
+        boat: SF
+        time: 33:32
+      Rod_H:
+        boat: LASEM
+        time: 32:08
+      Ron_F:
+        boat: F5 
+        time: 31:01
+      Nedra_F:
+        boat: SF
+        time: 34:08
+      Pat_B:
+        boat: WF
+        time: 32:14
+      Jay_H:
+        boat: SWSX
+        time: 33:01
+      Stacy_O:
+        boat: SWSX
+        time: 35:05
+      Ralph_H:
+        boat: SF
+        time: 37:07

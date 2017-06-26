@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+by_numb_alpha	race_scorer_v04.pl	/^sub by_numb_alpha {$/;"	s
+by_pts	race_scorer_v04.pl	/^sub by_pts {$/;"	s
+low_n_list	race_scorer_v04.pl	/^sub low_n_list {$/;"	s
+mm_ss	race_scorer_v04.pl	/^sub mm_ss { $/;"	s
+print_header	race_scorer_v04.pl	/^sub print_header {$/;"	s
+race_pt	race_scorer_v04.pl	/^sub race_pt { $/;"	s
+rc_calc	race_scorer_v04.pl	/^sub rc_calc {$/;"	s
+sum_n	race_scorer_v04.pl	/^sub sum_n {  # takes a ref_to_array and an integer$/;"	s

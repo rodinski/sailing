@@ -1,0 +1,297 @@
+---
+ # I no longer need to input the boat for each of the known skippers
+ # except for cases where the skipper is not sailing his normal boat
+ # like Rod has done in the series.   See race 5 and after.
+ # 
+race:
+  1:
+    wind: 2-3
+    date: 2016_05_01
+    RC:
+      - Rod_H
+      - Ken_B
+    notes: "M2 270 "
+    skip:
+      Art_M:
+        time: 35:19
+      Bill_P:
+        time: 38:06
+      Lewis_V: 
+         time: DNF 
+      Mike_F:
+         time: 37:33
+      Nedra_F:
+         time: 39:08
+      Pat_B:
+         time: 37:58
+      Ron_F:
+         time: 37:48
+      Michael_L:
+         time: 38:45
+  2:
+    wind: 2-3
+    date: 2016_05_01
+    RC:
+      - Rod_H
+      - Ken_B
+    notes: "M2 270 "
+    skip:
+      Art_M:
+        time: 31:20
+      Bill_P:
+        time: 33:56
+      Mike_F:
+         time: 30:56
+      Nedra_F:
+         time: DNF
+      Pat_B:
+         time: 35:23
+      Ron_F:
+         time: 31:00
+      Michael_L:
+         time: 40:37
+  3:
+    wind: 0-1
+    date: 2016_05_15
+    RC:
+      - Chris_E
+      - Nick_H
+      - Stacy_O
+    notes: "M2 90 "
+    skip:
+      Art_M:
+        time: 34:18
+      Bill_P:
+        time: 33:46 
+      Pat_B:
+         time: 34:31
+      Ron_F:
+         time: 34:05
+#      Patrick_L:
+#         time: DNF
+#         boat: SN
+      Barry_O:
+         time: DNF
+      Todd_P:
+         time: 37:00
+         boat: SN
+      Rod_H:
+         time: 37:17
+
+
+  4:
+    wind: 0-1
+    date: 2016_05_15
+    RC:
+      - Chris_E
+      - Nick_H
+      - Stacy_O
+    notes: "F1 90 "
+    skip:
+      Art_M:
+        time: 35:12
+      Bill_P:
+        time: 31:08 
+      Pat_B:
+         time: 39:17
+      Ron_F:
+         time: 30:42
+#      Patrick_L:
+#         time: 38:51
+#         boat: SN
+      Barry_O:
+         time: 43:03
+      Todd_P:
+         time: 38:38
+         boat: SN
+      Rod_H:
+         time: 38:11
+  5:
+    wind: 4 
+    date: 2016_05_22
+    RC:
+      - Mike_F
+      - Nedra_F
+      - Anita_M
+    notes: "M3 170  I told you water on outside crew on the inside, Cap'n Art!"
+    skip:
+      Art_M:
+        time: 34:00
+      Bill_P:
+        time: 35:13
+      Ron_F:
+         time: 30:10
+      Barry_O:
+         time: 38:40
+      Rod_H:
+         time: 37:16
+      David_Bu:
+         time: 35:08
+      Lewis_V: 
+         time: 31:58
+      Stacy_O:
+         time: 40:08
+
+  6:
+    wind: 4 
+    date: 2016_05_22
+    RC:
+      - Mike_F
+      - Nedra_F
+      - Anita_M
+    notes: "M3 170 " 
+    skip:
+      Art_M:
+        time: 32:03
+      Bill_P:
+        time: 33:27
+      Ron_F:
+         time: 32:27
+      Barry_O:
+         time: 40:04
+      Rod_H:
+         time: 35:28
+      David_Bu:
+         time: 34:03
+      Lewis_V: 
+         time: 33:52
+      Stacy_O:
+         time: 36:05
+      Pat_B:
+         time: 36:17
+  7:
+    wind: 2-3
+    date: 2016_06_04
+    RC:
+      - John_T
+      - Ralph_H
+      - Betsy_H
+    notes: "i2 270 " 
+    skip:
+      Bill_P:
+        time: 35:02
+      Ron_F:
+         time: 29:20
+      Barry_O:
+         time: 39:37
+      Rod_H:
+         time: 35:21
+      David_Bu:
+         time: 35:13
+      Lewis_V: 
+         time: 38:16
+      Stacy_O:
+         time: 38:27
+      Pat_B:
+         time: 34:32
+      Chris_E:
+         time: 36:25
+      Mike_F:
+         time: 32:49
+      Nedra_F:
+         time: 35:44
+      Sara_M:
+         time: 37:45
+      Jack_A:
+         time: 30:13
+         boat: SWSX
+      Michael_L:
+         time: 39:11
+  8:
+    wind: 2-3
+    date: 2016_06_04
+    RC:
+      - John_T
+      - Ralph_H
+      - Betsy_H
+    notes: "I2 270 " 
+    skip:
+      Bill_P:
+        time: 36:43
+      Ron_F:
+         time: 33:52
+      Barry_O:
+         time: 49:07
+      Rod_H:
+         time: 40:38
+      David_Bu:
+         time: 35:51
+      Lewis_V: 
+         time: 47:51
+      Stacy_O:
+         time: 42:11
+      Pat_B:
+         time: 35:15
+      Chris_E:
+         time: 40:08
+      Mike_F:
+         time: 35:29
+      Nedra_F:
+         time: 37:39
+      Sara_M:
+         time: 41:03
+      Jack_A:
+         time: 34:21
+         boat: SWSX
+      Michael_L:
+         time: 47:44
+
+  9:
+    wind: 0-1
+    date: 2016_06_12
+    RC:
+      - Barry_O
+      - Bill_P
+      - Lewis_V
+    notes: "M2-3 " 
+    skip:
+      Ron_F:
+         time: 32:36
+      Pat_B:
+         time: 45:51
+      Chris_E:
+         time: 45:37
+      Betsy_H:
+        time: 55:27
+      David_Bu:
+         time: 54:36
+
+  10:
+    wind: 2-3
+    date: 2016_06_12
+    RC:
+      - Barry_O
+      - Bill_P
+      - Lewis_V
+    notes: "M3  Shortened to 2 " 
+    skip:
+      Ron_F:
+         time: 36:43
+      Ralph_H:
+        time: DNF
+      Art_M:
+         time: 38:52
+      David_Bu:
+         time: 42:27
+      Chris_E:
+         time: 43:44
+      Pat_B:
+         time: 45:39
+
+ #    Adrian_E:
+ #    Anita_M:
+ #    Art_M:
+ #    Besy_H:
+ #    Bill_P:
+ #    David_Bu:
+ #    Gail_B:
+ #    Jay_H:
+ #    Jimmie_B:
+ #    Lewis_V: 
+ #    Mike_F:
+ #    Nedra_F:
+ #    Pat_B:
+ #    Paul_B:
+ #    Ralph_H:
+ #    Rod_H:
+ #    Ron_F:

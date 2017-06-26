@@ -1,0 +1,290 @@
+Year=2015
+Centerboard Classes	NAPY	D-PN	Wind HC For Handicap Range
+Code		0-1	2-3	4	5-9
+14 (Int.)	14	85.3	86.9	85.4	84.2	84.1
+29er	29	84.5	(85.8)	84.7	83.9	(78.9)
+405 (Int.)	405	89.9		(89.2)		
+420 (Int. or Club)	420	97.6	103.4	100.0	95.0	90.8
+470 (Int.)	470	86.3	91.4	88.4	85.0	82.1
+49er (Int.)	49	68.2		69.6		
+505 (Int.)	505	79.8	82.1	80.9	79.6	78.0
+A Scow	A-SC	61.3	[63.2]	62.0	[56.0]	
+Akroyd	AKR	99.3	(97.7)	99.4	[102.8]	
+Albacore (15')	ALBA	90.3	94.5	92.5	88.7	85.8
+Alpha	ALPH	110.4	(105.5)	110.3	110.3	
+Alpha One	ALPHO	89.5	90.3	90.0	[90.5]	
+Alpha Pro	ALPRO	(97.3)		(98.3)		
+American 14.6	AM-146	96.1		96.5		
+American 16	AM-16	103.6	(110.2)	105.0		
+American 18	AM-18	[102.0]				
+Apollo C/B (15’9?)	APOL	92.4	96.6	94.4	(90.0)	(89.1)
+Aqua Finn	AQFN	106.3		106.4		
+Arrow 15	ARO15	(96.7)		(96.4)		
+B14	B14	(81.0)		(83.9)		
+Bandit (Canadian)	BNDT	98.2		(100.2)		
+Bandit 15	BND15	97.9	100.7	98.8	96.7	[96.7]
+Bandit 17	BND17	(97.0)	[101.6]	(99.5)		
+Banshee	BNSH	93.7	95.9	94.5	92.5	[90.6]
+Barnegat 17	BG-17	100.3		100.9		
+Barnegat Bay Sneakbox	B16F	110.6		110.5	[107.4]	
+Barracuda	BAR	(102.0)		(100.0)		
+Beetle Cat (12’4?, Cat Rig)	BEE-C	120.6	(121.7)	119.5	118.8	
+Blue Jay	BJ	108.6	110.1	109.5	107.2	(106.7)
+Bombardier 4.8	BOM4.8	94.9	[97.1]	96.1		
+Bonito	BNTO	122.3	(128.5)	(122.5)		
+Boss w/spi	BOS	74.5		75.1		
+Buccaneer 18' spi (SWN18)	BCN	86.9	89.2	87.0	86.3	85.4
+Butterfly	BUT	108.3	110.1	109.4	106.9	106.7
+Buzz	BUZ	80.5		81.4		
+Byte	BYTE	97.4	97.7	97.4	96.3	[95.3]
+Byte CII	BYTE2	(91.4)	[91.7]	[91.6]	[90.4]	[89.6]
+C Scow	C-SC	79.1	81.4	80.1	78.1	77.6
+Canoe (Int.)	I-CAN	79.1	[81.6]	79.4	(79.0)	
+Canoe 4 Mtr	4-CAN	121.0		121.6		
+Canoe 4 Mtr (ACA Cl.)	4-CAN2	(118.4)		(120.2)		
+Canoe 5 Mtr	5-CAN	110.6	(109.0)	111.9		
+Capri (see Catalina)						
+Caprice	CPR	102.4	[103.1]	103.7		
+Catalina 13 (Capri)	CAT13	92.1	94.0	92.5	(90.4)	
+Catalina 14.2 (Capri)	CAT142	99.4	100.1	99.7	99.2	
+Catalina 14.2 Keel (Capri	CAT142K	(100.5)				
+Catalina 16.5 (Capri) no spi	CAT165	96.3	97.1	95.9	94.9	
+Catalina Expo 12.5	CAT125	(102.0)		(101.0)		
+Celebrity w/Genoa	CEL	90.2	93.8	90.4	89.0	[87.6]
+Challenger 15	CHL15	91.7		93.6		
+CL 14	CL14	101.2	103.3	101.7	100.3	94.4
+CL 16	CL16	95.7	98.0	96.8	95.1	93.6
+C-Lark	C-LK	96.7	96.8	96.9	96.6	96.0
+Club Junior	CFJ	102.5	(105.5)	(103.0)		
+Code 40	COD40	93.5		(94.0)		
+Comet	CM	91.7	95.2	92.1	89.7	88.7
+Contender (Int.)	CND	90.1	95.9	91.0	82.0	
+Coronado 15	COR15	91.9	92.7	92.6	91.5	90.4
+Cyclone 13	CLN13	101.0	102.0	100.5	(100.3)	
+Cyclone 13 (SA=74)	CLN132	96.9	(98.7)	97.2	(95.6)	
+D Scow	D-SC	82.7		81.4	[82.0]	
+Dabchick	DABCK	122.5	128.6	123.4		
+Dagger	DGER	94.9	97.2	94.7	(91.3)	
+Day Sailer (O’Day 17)	DS	98.5	101.3	98.5	96.9	96.3
+Defender (O’Day)	DFD	99.5	(100.0)	(99.6)	(93.3)	
+Demon	DM	95.4	92.2	95.9	95.8	(95.8)
+Dolphin 17	DLP17	97.5	(98.1)	97.8	96.9	
+Dolphin Sr	DLPSR	105.5	111.7	108.6	101.0	97.3
+Dover Dory 16	DOD16	(105.1)		(106.7)		
+DS-16	DS-16	117.1	(120.7)	118.5	(106.8)	
+Duster	DUS	98.2	98.7	98.8	(97.8)	
+Dyer Dink DT (10') Rhodes	DDT10	(110.0)		(112.0)		
+E Scow	E-SC	72.6	77.6	75.3	70.8	69.3
+El Toro	ELTO	126.6	127.5	127.6	128.0	
+Enterprise (Int.)	ENT	92.6	93.4	93.3	92.2	91.6
+Europe Dinghy (Int.)	EUR	92.8	94.0	93.0	(91.5)	
+Evans 16	EVN16	(98.4)		(97.9)		
+Explorer 15	EXP	108.0	(111.8)	107.1	[104.8]	
+Falcon 14	FAL14	105.3	(109.4)	106.3	(101.2)	
+Finn (Int.)	FN	90.1	93.2	91.8	89.1	87.1
+Fireball (Int.)	FB	85.6	87.9	87.1	85.4	82.4
+FJ (Int.)	FJ	97.9	100.9	99.3	98.2	(95.8)
+Flying Dutchman (Int.)	FD	80.1	82.6	81.5	78.4	75.9
+Flying Fish	FFSH	99.4	102.6	98.7	(98.9)	
+Flying Scot (19')	FSCT	89.6	92.1	90.4	89.1	87.5
+Flying Tern	FT	108.6	111.0	109.3	(102.1)	(102.0)
+Force 5	F5	95.4	98.1	96.6	95.3	93.4
+Ford 20 (Day Sailer)	FRD20	100.7		100.5	[98.0]	
+Formula S	FORMS	98.6	[95.0]	98.6		
+Frontrunner	FRUN	87.0	91.1	87.6	85.7	
+Fusion 15	FUS15	90.7	[93.2]	90.8	[90.0]	[88.3]
+Gannet	GN	(99.2)		(100.1)		
+Geary 18	GRY18	92.2	95.7	94.0	89.6	(89.4)
+Gemini 16'	GEM	99.1	(101.0)	99.4	(99.1)	
+Ghost 13 (SA=105)	GHO13	104.6	105.9	105.7	103.0	
+GP14	GP14	100.9	103.0	101.7	99.8	(99.4)
+Gull	GUL	119.5		(120.6)		
+Hampton One Design	HA	91.9	94.2	92.2	(88.2)	(87.9)
+Harpoon 4.6	HPN4.6	102.0	103.6	101.5	96.5	
+Harpoon 5.2	HPN5.2	96.0	99.4	96.7	94.3	(93.1)
+Hartley 14	HRT14	(97.3)		(98.1)		
+Highlander	HI	84.3	87.8	86.3	82.7	80.5
+Hobie One-12 See:	HLR12					
+Hobie One-14 See:	HLR14					
+Hobie One-9 See:	HLRHK					
+Holder 12 (H1-12)	HLR12	105.5	105.2	105.6	97.5	
+Holder 14 (H1-14)	HLR14	111.0	113.3	111.7	(108.4)	
+Holder Hawk (H1-9)	HLRHK	120.5	(114.5)	121.4	(120.8)	
+Holiday 19	HLD19	103.2	108.3	103.3	(100.3)	[100.3]
+Holiday Jr	HLDJR	111.1	(114.1)	112.0	(104.0)	
+Hunter 140 (JY14)	HTR140	[99.0]				
+Hunter 170 no spi	HTR170	92.7		92.6		
+Inland 20 Scow	I20-SC	83.4	[88.5]	(85.0)	[81.4]	[80.4]
+Interlake	INT	89.1	92.3	90.1	89.2	87.1
+Invitation	INVT	99.4	101.5	100.2	98.0	(96.5)
+Islands 17	ISD17	98.4	(101.0)	100.5	[97.9]	
+Javelin	JAV	111.3	111.2	111.5	110.4	(109.8)
+Jester 12	JES12	(115.0)		(116.5)		
+Jester 16	JES16	102.2		102.3		
+Jester 8	JES8	125.6		126.1	(123.0)	
+Jet 14	JT14	97.2	97.5	98.2	96.6	(94.6)
+Jetwind	JTWN	109.2	(112.5)	110.2	102.5	
+Johnson 18 spi	JHN18	86.4	(87.0)	86.5	(80.1)	
+Jollyboat	JB	86.8	(92.0)	86.1		
+JY 15	JY15	91.9	92.5	92.4	91.9	
+JY Xcite Trainer 9’11”	JY-T	(135.0)				
+Kenn 11	KN11	111.1	(108.7)	(112.0)		
+Kestrel	KL	91.6	90.8	91.9	91.7	91.5
+Koralle 15	KRL15	112.0		(113.0)		
+Koralle Jr	KRL12	(120.3)	(123.0)	[120.2]		
+Korsar	KO	87.0	[89.0]	86.5	[85.0]	85.0
+Lark (13’4?)	LRK	(93.6)		(93.8)		
+Lark 10	LRK10	125.4		(130.0)	(135.3)	
+Laser (Int.)	LASE	91.1	93.7	92.3	91.0	88.2
+Laser 2000	LAS2000	92.5		91.1		
+Laser 4.7 (Int.)	LAS4.7	95.4	(96.1)	95.2	(94.9)	
+Laser 4000	LAS4000	80.7		80.8		
+Laser II (Int., w/Trap & Spi)	LASE2	92.8	95.6	94.6	93.6	88.8
+Laser Radial/Laser M	LASEM	96.7	99.4	97.3	93.6	
+Laser Stratos no trap	LASST	87.3		87.4		
+Laser Vortex	LASVT	86.8		87.2		
+Lazy E	LZE	91.7		92.7	(88.9)	
+Lido 14	LD14	98.9	99.7	99.1	98.5	98.2
+Lightning (Int.)	LI	87.0	92.6	87.6	85.4	83.9
+Lone Star 13	LS13	109.5	[106.3]	108.4		
+Lone Star 16 (SA=145)	LS16	116.1	(116.0)	117.4	(116.2)	
+Lone Star 16 (SA=165)	LS162	110.6	(108.9)	(114.4)		
+M Scow (M-16 Scow)	M-SC	89.3	94.2	90.6	88.1	87.4
+M-20 Scow	M-20	83.5	88.6	85.2	81.5	80.5
+Mac Dinghy	MACD	121.2		121.3		
+Mach II	MACH	(110.0)	(112.0)	[110.6]	[108.3]	
+Man O’War	MWR	99.4	100.9	98.9	98.3	
+Mariner 17	MAR17	105.0		105.3	(100.0)	
+Marlin 14	MRL14	(103.3)		(103.1)	(102.0)	
+Marshall Cat 15 See:	SNDPR					
+Mayflower	MAY	123.6	(125.4)	126.3	(115.3)	
+MC Scow	MC-SC	87.8	89.5	87.4	87.2	86.5
+Megabyte	MBYT	90.8	93.7	92.8	91.2	(90.0)
+Melonseed Skiff	MSED	[110.0]				
+Merrimac	MERI	(108.9)		(106.6)		
+Meteor	MET	(116.0)	(120.0)	[115.0]		
+Microtoner (Brazil)	MTON	(88.0)		(88.2)		
+Minifish (Alcort)	MFSH	113.4	116.2	115.5	[112.0]	(109.1)
+Mirror 16	MRR16	95.8		97.0		
+Mirror Dinghy (10’10”)	MRRDY	113.1	(114.0)	113.0	112.5	(110.6)
+Missile	MI	98.1	(97.8)	98.0		
+Mobjack	MJ	91.3	96.5	92.4	88.0	(86.5)
+Monk	MONK	[100.0]				
+Montgomery 15	MON15	108.2		(111.7)		
+Moth	MO	107.1	(108.4)	107.2	(102.0)	
+Mustang 17	MUS17	102.9	(104.3)	103.1		
+Musto Skiff	MUST	[80.0]				
+Mutineer 15' (SWN15)	MUTR	96.0	98.1	96.1	95.4	(95.0)
+MX Ray	MXRAY	(90.5)		(90.7)		
+Narrasketuck	NRS	(89.7)				
+National 10	N-10	(123.5)		(123.3)		
+National 12	N-12	98.0		97.4		
+National One Design	N1D	96.3	97.5	96.5	95.8	(93.3)
+Neptune 14	NEP14	107.4		108.2	(103.3)	
+Nomad spi (Vanguard)	NMD17	(93.5)				
+O’Day 12	ODY12	117.3		(117.1)	[107.8]	
+O’Day 15	ODY15	95.8	98.1	97.8	93.8	[91.4]
+OK Dinghy (Int.)	OK	96.5	97.1	96.9	96.6	96.1
+Omega (14')	OMG	110.6	112.3	110.4	108.1	
+Optimist Pram (Int.)	OP	123.6		124.0		
+Ospray (O’Day)	OSPRA	105.7	(108.2)	106.5	(102.8)	
+Osprey Mk 1&2	OS-1	85.0		85.0		
+Osprey Mk 2&3	OS-3	84.8	87.2	84.8	84.0	
+Overnighter (Tanzer)	OVN16	102.5	103.0	(102.3)		
+Paceship 17	PSC17	107.4	(109.3)	(108.2)	[105.5]	
+Penguin	PG	111.5	112.9	112.8	110.3	
+Petrel	PET	115.6	117.0	116.6		
+Phantom (Lateen Rig)	PHNTM	103.5	108.5	104.5	101.2	(99.1)
+Pintail	PINT	105.0	113.9	107.3	(100.0)	(96.5)
+Pirateer	PIRAT	102.9	(104.9)	102.9	(101.5)	
+Porpoise 12	PRP12	114.6		116.8		
+Precision 14	PRS14	103.5	(102.4)	(103.0)	(98.8)	
+Precision 15	PRS15	96.6		(96.2)		
+Precision 16	PRS16	100.1	(101.8)	101.5	[95.0]	
+Precision 18.5 no spi	PRS185	90.2	(91.5)	[90.2]	(88.0)	
+Puffer	PUF	110.4	108.7	111.8	108.8	(106.8)
+Raider 16	RDR16	91.4	92.0	91.2		
+Ranger 16	RNG16	(111.2)		(108.8)		
+Rascal	RSCL	108.9	[113.0]	109.5	[103.4]	
+Rebel	REB	96.9	96.2	96.1	96.0	96.0
+Rhodes Bantam	RB	97.4	101.0	98.1	96.0	94.8
+RS 200 Slp spi	RS200	88.3		88.8		
+RS 400 Slp spi	RS400	82.3		82.4		
+RS 600	RS600	76.2	(77.4)	76.8		
+RS 700 spi	RS700	73.3		73.9		
+RS 800 Slp spi	RS800	77.0		77.5		
+RS Feva	RSFEV	(105.2)		(105.8)		
+RS Vareo spi	RSVAR	92.7		92.7		
+Sabot Naples	SBT-N	136.4		136.7		
+Sabot U.S.	SBT	(119.6)		(121.8)		
+Sailfish	SAF	118.4	119.8	118.5	(114.1)	
+Sandpiper 15 (Marshall)	SNDPR	112.7	(116.6)	114.3	(109.1)	
+Scorpion	SCOR	112.1	112.6	111.0		
+Sea Pearl 21 (Cat Ketch)	SPL21K	(96.6)		(97.0)		
+Sea Snark (Snark)	SNAR	129.1	134.1	130.8	(125.0)	
+Sea Witch (Sunchaser II)	SWCH	112.2	111.3	114.5		
+Seabird	SBD	(117.1)		(117.0)		
+Sidewinder (Sloop)	SWND	98.9	102.1	100.6	96.7	(94.3)
+Sirocco 15	SRC15	97.2	(96.6)	(97.5)		(96.5)
+Skidley	SKID	91.3	(90.4)	(91.7)	(90.0)	
+Skipjack	SJ	93.1	94.4	94.0	90.8	
+Skylark	SL	116.4	(117.6)	116.3	(107.8)	
+Snipe (Int.)	SN	91.9	94.8	92.5	91.4	89.0
+Solar Sailer 13' Expo	SOS13	(122.7)		(122.3)		
+Spanker (Brazil)	SPKR	[97.0]				
+Spindrift 13’4?	SPN13	104.5	(104.9)	104.6	[102.5]	
+Spindrift 15	SPN15	100.5	(105.9)	(100.6)		
+Spree	SPR	93.0	92.8	93.8	(92.4)	
+SR 17	SR-17	(83.1)				
+Starcraft	STC	117.6		(119.7)		
+Stardancer 14	STD14	110.3	(112.0)	110.5	(106.3)	
+Starfish	STFS	103.4	107.0	105.6	100.7	(98.7)
+Starwind 15 See:	MUTR					
+Starwind 18 See:	BCN					
+Suicide (Develop.Class)	SUI	80.7	84.0	81.5	(76.0)	[75.4]
+Sun Cat (Cat Rig)	SUNC	(102.8)		(103.0)		
+Sunbird	SBRD	114.0	(114.5)	115.0		
+Sunfish (Int.)	SF	99.6	103.0	100.4	97.8	95.8
+Sunflower	SUNF	131.7	(139.3)	130.4	127.6	[125.1]
+Super Porpoise 14	SPOR	107.4		109.1	100.6	[99.6]
+Super Sunfish	SSF	100.7	102.4	102.3	99.3	(95.8)
+Surfwind	SURF	107.7	(110.6)	111.2	(103.7)	[102.4]
+Surprise	SURP	99.8	101.8	99.7	[95.0]	(94.8)
+Sweet 16	SWSX	96.2	99.4	95.9	94.7	94.3
+Tanzer 14	TNZ14	111.4		112.5	(106.1)	[104.0]
+Tanzer 16 w/Gen	TNZ16	97.1	97.0	97.2	96.4	[95.7]
+Tasar	TASA	88.2	93.6	89.9	85.6	(84.5)
+Thistle	TH	83.0	83.0	83.0	83.0	83.0
+Tornado C/B	TOCB	90.9	91.9	91.8	91.0	(89.7)
+Town Class	TWN	97.3	[98.6]	98.3	(95.3)	
+United States Monotype	USMO	98.5		(98.7)		
+Upstart	UP	100.5	(102.7)	100.7	99.7	[99.7]
+US-1	US-1	91.5	90.6	91.3	92.3	91.9
+Vagabond 17 (and HLR17)	VAG17	[100.0]				
+Vanguard 15	VGD15	90.5	92.6	91.2	86.1	
+Vector	VECT	101.9	(103.2)	102.0	(93.5)	
+Viper	VIP	94.5	(95.6)	94.7	(92.6)	
+Wayfarer	WF	91.6	94.0	91.7	90.5	89.5
+Weesort	WS	124.7		(125.3)	(122.9)	
+West Wight Potter 15	WWP15	138.1		139.1	(137.5)	
+Westlake 14	WL14	105.6		(105.0)		
+Whip	WHIP	93.2	(93.3)	93.1	(91.0)	
+Whirlwind	WHWN	115.0		(115.2)		
+Whitecap 18' (L-N)	WHCAP	100.5		(100.9)		
+Widgeon	WDG	122.6	126.0	121.8	(118.4)	
+Wildflower	WILF	123.2	117.5	124.7	(126.9)	
+Windflight	WINF	108.3	(106.7)	(108.6)		
+Windjammer	WINJ	110.1	113.0	109.3		
+Windmill	WM	89.5	92.9	91.4	88.3	86.2
+Wing Dinghy	WD	92.0		(92.5)		
+Wizz 14	WIZ	(92.4)		(93.8)		
+Woodpussy	WP	103.0		104.9	(99.3)	
+X-14 (Italy)	X-14	[95.1]				
+X-Boat	X-B	97.7		98.0	(96.5)	
+Y-Boat	Y-B	(91.0)		(91.1)		
+Y-Flyer	YF	86.7	89.5	87.9	86.4	83.4
+Zef 12	ZEF12	117.2	[122.0]	117.5	[113.1]	
+Zenith	ZEN	91.4	[93.0]	(92.0)	[87.9]	
+Zuma	ZUM	103.2	(104.3)	103.7	(100.3)	
+
+Hunter 216 HTR216 91.0   (90.6)    

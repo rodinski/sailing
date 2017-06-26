@@ -1,0 +1,165 @@
+race_scorer_v02.pl version 0.2 coded: 2015_09_14
+race_scorer_v02.pl version 0.2 coded: 2015_09_14
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Race Number: 1    Wind: 2-3 (BFT)    RC:  Mike_F, Nedra_F
+Date: 
+Notes: 
+                     a_timb                       c_time
+       Name   Boat   mm:ss   sec  /   hc  =c_sec   mm:ss  Rank
+-----------   ----   -----   -------------------   -----  ----------
+       Art on SWSX   28:21   1701 / 0.959 =1774    29:34   1.5
+    Bill_P on VGD15    DNF   DNF  / 0.912 =DNF       DNF        6
+       Jay on SWSX   29:18   1758 / 0.959 =1833    30:33     3
+       Pat on WF       DNF   DNF  / 0.917 =DNF       DNF        6
+      Paul on BCN    25:43   1543 / 0.87  =1774    29:34   1.5
+       Rod on PUF    35:25   2125 / 1.118 =1901    31:41      4
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Race Number: 2    Wind: 4 (BFT)    RC:  Mike_F, Nedra_F
+Date: 
+Notes: 
+                     a_timb                       c_time
+       Name   Boat   mm:ss   sec  /   hc  =c_sec   mm:ss  Rank
+-----------   ----   -----   -------------------   -----  ----------
+       Art on SWSX   28:48   1728 / 0.947 =1825    30:25    2
+       Jay on SWSX   31:49   1909 / 0.947 =2016    33:36      4
+       Pat on WF     31:08   1868 / 0.905 =2064    34:24       5
+      Paul on BCN    26:24   1584 / 0.863 =1835    30:35     3
+       Rod on PUF    31:48   1908 / 1.088 =1754    29:14   1
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Race Number: 7    Wind: 2-3 (BFT)    RC:  Barry, Sara
+Date: 
+Notes: 
+                     a_timb                       c_time
+       Name   Boat   mm:ss   sec  /   hc  =c_sec   mm:ss  Rank
+-----------   ----   -----   -------------------   -----  ----------
+    Bill_P on VGD15  38:15   2295 / 0.912 =2516    41:56      4
+   Dave_Bl on LASE   38:51   2331 / 0.923 =2525    42:05       5.5
+       Jay on SWSX   39:57   2397 / 0.959 =2499    41:39     3
+      John on US-1   34:26   2066 / 0.913 =2263    37:43   1
+    Mike_F on SF     42:15   2535 / 1.004 =2525    42:05       5.5
+   Nedra_F on SF     42:36   2556 / 1.004 =2546    42:26         7
+       Pat on WF     41:39   2499 / 0.917 =2725    45:25          8
+       Rod on PUF    44:23   2663 / 1.118 =2382    39:42    2
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Race Number: 8    Wind: 2-3 (BFT)    RC:  Barry, Sara
+Date: 
+Notes: 
+                     a_timb                       c_time
+       Name   Boat   mm:ss   sec  /   hc  =c_sec   mm:ss  Rank
+-----------   ----   -----   -------------------   -----  ----------
+    Bill_P on VGD15  40:13   2413 / 0.912 =2646    44:06    2
+   Dave_Bl on LASE   50:00   3000 / 0.923 =3250    54:10         7
+       Jay on SWSX   55:40   3340 / 0.959 =3483    58:03           9
+      John on US-1   40:05   2405 / 0.913 =2634    43:54   1
+    Mike_F on SF     46:08   2768 / 1.004 =2757    45:57      4
+   Nedra_F on SF     50:45   3045 / 1.004 =3033    50:33        6
+       Pat on WF     51:17   3077 / 0.917 =3356    55:56          8
+      Paul on BCN    40:00   2400 / 0.87  =2759    45:59       5
+       Rod on PUF    50:18   3018 / 1.118 =2699    44:59     3
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Race Number: 9    Wind: 4 (BFT)    RC:  Art, Alison_S, Bill_P
+Date: 
+Notes: 
+                     a_timb                       c_time
+       Name   Boat   mm:ss   sec  /   hc  =c_sec   mm:ss  Rank
+-----------   ----   -----   -------------------   -----  ----------
+     Barry on HLR14    DNF   DNF  / 1.084 =DNF       DNF          8
+   Dave_Bl on LASE     DNF   DNF  / 0.91  =DNF       DNF          8
+  David_Bu on SF     51:11   3071 / 0.978 =3140    52:20       5
+       Jay on SWSX   51:21   3081 / 0.947 =3253    54:13        6
+    Mike_F on SF     41:07   2467 / 0.978 =2522    42:02   1
+       Pat on WF     44:21   2661 / 0.905 =2940    49:00      4
+      Paul on BCN    37:17   2237 / 0.863 =2592    43:12    2
+       Rod on PUF    47:37   2857 / 1.088 =2626    43:46     3
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Race Number: 10    Wind: 4 (BFT)    RC:  Art, Alison_S, Bill_P
+Date: 
+Notes: 
+                     a_timb                       c_time
+       Name   Boat   mm:ss   sec  /   hc  =c_sec   mm:ss  Rank
+-----------   ----   -----   -------------------   -----  ----------
+     Barry on HLR14  32:16   1936 / 1.084 =1786    29:46    2
+       Jay on SWSX   39:30   2370 / 0.947 =2503    41:43       5
+       Pat on WF     29:48   1788 / 0.905 =1976    32:56      4
+      Paul on BCN    22:20   1340 / 0.863 =1553    25:53   1
+       Rod on PUF    35:38   2138 / 1.088 =1965    32:45     3
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Race Number: 11    Wind: 0-1 (BFT)    RC:  Paul, Nick_H
+Date: 
+Notes: 
+                     a_timb                       c_time
+       Name   Boat   mm:ss   sec  /   hc  =c_sec   mm:ss  Rank
+-----------   ----   -----   -------------------   -----  ----------
+       Art on SWSX   28:58   1738 / 0.994 =1748    29:08     3
+     Barry on HLR14  37:49   2269 / 1.133 =2003    33:23         7
+      Gail on SWSX     DNF   DNF  / 0.994 =DNF       DNF           9
+      John on US-1   27:09   1629 / 0.906 =1798    29:58        6
+    Mike_F on SF     29:51   1791 / 1.03  =1739    28:59    2
+   Nedra_F on SF     30:10   1810 / 1.03  =1757    29:17      4
+       Rod on PUF    32:32   1952 / 1.087 =1796    29:56       5
+       Ron on F5     27:35   1655 / 0.981 =1687    28:07   1
+      Sara on SWSX   33:18   1998 / 0.994 =2010    33:30          8
+
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Race Number: 12    Wind: 2-3 (BFT)    RC:  Paul, Nick_H
+Date: 
+Notes: 
+                     a_timb                       c_time
+       Name   Boat   mm:ss   sec  /   hc  =c_sec   mm:ss  Rank
+-----------   ----   -----   -------------------   -----  ----------
+       Art on SWSX   27:21   1641 / 0.959 =1711    28:31        6
+     Barry on HLR14  35:00   2100 / 1.117 =1880    31:20          8
+     Eliot on LASE2  34:09   2049 / 0.946 =2166    36:06           9
+      Gail on SWSX   50:00   3000 / 0.959 =3128    52:08            10
+      John on US-1   20:11   1211 / 0.913 =1326    22:06   1
+    Mike_F on SF     23:21   1401 / 1.004 =1395    23:15    2
+   Nedra_F on SF     27:01   1621 / 1.004 =1615    26:55       5
+       Rod on PUF    28:08   1688 / 1.118 =1510    25:10     3
+       Ron on F5     25:09   1509 / 0.966 =1562    26:02      4
+      Sara on SWSX   28:18   1698 / 0.959 =1771    29:31         7
+
+--+----+----+----+----+----+----+----+----+----+----+----+----+----+--
+
+             Races Held: 8
+Races Needed to Qualify: 4
+
+Name / Boat          Race
+              1   2   3   4   5   6   7   8   9   10   11   12   RCpt    PTS
+              --  --  --  --  --  --  --  --  --  --  --  --
+     John      -    -   RC   RC    -    -    1    1    -    -    6    1       1         4 = 1 1 1 1
+     Paul    1.5    3    -    -    -    -    -    5    2    1   RC   RC     1.9       6.3 = 1 1.5 1.9 1.9
+   Mike_F     RC   RC    -    -    -    -  5.5    4    1    -    2    2     2.3       7.3 = 1 2 2 2.3
+      Art    1.5    2    -    -    -    -    -    -   RC   RC    3    6     2.2       7.9 = 1.5 2 2.2 2.2
+      Rod      4    1    -    -   RC   RC    2    3    3    3    5    3     2.7       8.4 = 1 2 2.7 2.7
+   Bill_P      6    -    -    -   RC   RC    4    2   RC   RC    -    -       3        12 = 2 3 3 4
+      Jay      3    4    -    -    -    -    3    9    6    5    -    -     4.2        15 = 3 3 4 5
+  Nedra_F     RC   RC    -    -    -    -    7    6    -    -    4    5       5        19 = 4 5 5 5
+      Pat      6    5    -    -    -    -    8    8    4    4    -    -     5.4        19 = 4 4 5 6
+    Barry      -    -    -    -    -    -   RC   RC    8    2    7    8     5.7      20.4 = 2 5.7 5.7 7
+     Sara      -    -    -    -    -    -   RC   RC    -    -    8    7       7        29 = 7 7 7 8
+ Alison_S      -    -    -    -    -    -    -    -   RC   RC    -    -      na        na = na
+  Dave_Bl      -    -    -    -    -    -  5.5    7    8    -    -    -     6.3       DNQ = DNQ
+ David_Bu      -    -    -    -    -    -    -    -    5    -    -    -       5       DNQ = DNQ
+    Eliot      -    -    -    -    -    -    -    -    -    -    -    9       9       DNQ = DNQ
+     Gail      -    -    -    -    -    -    -    -    -    -    9   10       9       DNQ = DNQ
+   Nick_H      -    -    -    -    -    -    -    -    -    -   RC   RC      na        na = na
+      Ron      -    -    -    -    -    -    -    -    -    -    1    4       1       DNQ = DNQ
+    Stacy      -    -   RC   RC    -    -    -    -    -    -    -    -      na        na = na
+
+
+race_scorer_v02.pl version 0.2 coded: 2015_09_14

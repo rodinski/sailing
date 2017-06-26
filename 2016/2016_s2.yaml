@@ -1,0 +1,273 @@
+---
+ # I no longer need to input the boat for each of the known skippers
+ # except for cases where the skipper is not sailing his normal boat
+ # like Rod has done in the series.   See race 5 and after.
+ # 
+race:
+  1:
+    wind: 2-3
+    date: 2016_06_26
+    RC:
+      - Ron_F
+      - David_Bu
+      - Sandy_S
+    notes: "M3 10 "
+    skip:
+      Betsy_H:
+        time: 38:50
+      Anita_M:
+        time: 45:50
+      Art_M:
+        time: 35:56
+      Bill_P:
+        time: 39:25
+      Chris_E: 
+        time: 38:09
+      John_T:
+        time: 30:31
+      Mike_F:
+        time: 37:18
+      Nedra_F:
+        time: 38:17
+      Pat_B:
+        time: 36:58
+      Rod_H:
+        boat: LASEM
+        time: 37:26
+      Stacy_O:
+        time: 37:19
+  2:
+    wind: 2-3
+    date: 2016_06_26
+    RC:
+      - Ron_F
+      - David_Bu
+      - Sandy_S
+    notes: "M3 10 Called due to thunder"
+    skip:
+
+  3:
+    wind: 2-3
+    date: 2016_07_10
+    RC:
+      - Barry_O
+      - Stacy_O
+      - Sara_M
+    notes: "M3 180"
+    skip:
+      Paul_B:
+        time: 37:28
+      Ron_F:
+        time: 41:30
+      Lewis_V:
+        time: 43:56
+      Mike_F:
+        time: 44:18
+      Rod_H:
+        boat: LASEM
+        time: 45:12
+      Nedra_F:
+        time: 47:32
+      Pat_B:
+        time: 46:41
+      Betsy_H:
+        time: 47:48
+      Nick_O:
+        boat: SF
+        time: 57:32
+  4:
+    wind: 2-3
+    date: 2016_07_10
+    RC:
+      - Barry_O
+      - Stacy_O
+      - Sara_M
+    notes: "M3 180"
+    skip:
+      Paul_B:
+        time: 41:06
+      Ron_F:
+        time: 44:57
+      Lewis_V:
+        time: 42:39
+      Mike_F:
+        time: 46:01
+      Rod_H:
+        boat: LASEM
+        time: 45:37
+      Nedra_F:
+        time: 50:32
+      Pat_B:
+        time: 45:09
+      Ralph_H:
+        time: 52:29
+      Nick_O:
+        boat: SF
+        time: DNF
+
+
+  5:
+    wind: 2-3
+    date: 2016_07_17
+    RC:
+      - Stacy_O
+      - Gail_B
+    notes: ""
+    skip:
+      Paul_B:
+        time: 37:47	
+      Barry_O:
+        time: 50:36	
+      Chris_E:
+        time: 45:32	
+      David_Bu:
+        time: 45:58	
+      Rod_H:
+        boat: LASEM
+        time: 45:08	
+      Ralph_H:
+        time: 46:50	
+      Bill_P:
+        time: 47:18	
+      Lewis_V:
+        time: 41:31	
+      Pat_B:
+        time: 46:04	
+  6:
+    wind: 2-3
+    date: 2016_07_17
+    RC:
+      - Stacy_O
+      - Gail_B
+    notes: ""
+    skip:
+      Art_M:
+        time: 48:17	
+      Rod_H:
+        boat: LASEM
+        time: 50:03	
+      Bill_P:
+        time: 52:26	
+      David_Bu:
+        time: 53:13	
+      Chris_E:
+        time: 53:14	
+      Paul_B:
+        time: 47:39	
+      Betsy_H:
+        time: 56:14	
+      Lewis_V:
+        time: 50:10	
+      Pat_B:
+        time: 53:01	
+      Barry_O:
+        time: DNF 	
+
+
+  7:
+    wind: 0-1
+    date: 2016_07_24
+    RC:
+      - Art_M
+      - Ralph_H
+      - Betsy_H
+    notes: "M1 10"
+    skip:
+      Bill_P:
+        time: 18:05
+      Chris_E:
+        time: 19:30
+      David_Bu:
+        time: 20:52
+      John_T:
+        time: 12:51
+      Lewis_V:
+        time: 19:00
+      Mike_F:
+        time: 16:34
+      Rod_H:
+        boat: LASEM
+        time: 21:26
+      Ron_F:
+        time: 15:14
+  8:
+    wind: 0-1
+    date: 2016_07_24
+    RC:
+      - Art_M
+      - Ralph_H
+      - Betsy_H
+    notes: "M2 10"
+    skip:
+      Bill_P:
+        time: 24:51
+      Chris_E:
+        time: 26:47
+      David_Bu:
+        time: 26:55
+      John_T:
+        time: 21:18
+      Lewis_V:
+        time: DNF
+      Mike_F:
+        time: 30:45
+      Rod_H:
+        boat: LASEM
+        time: 30:46
+      Ron_F:
+        time: 25:15
+      Nick_S:
+        boat: SF
+        time: 33:36
+  9:
+    wind: 2-3 
+    date: 2016_07_31
+    RC:
+      - Ken_B
+      - Maryjane_B
+    notes: "M2 Delayed start T-storms"
+    skip:
+      Art_M:
+        time: 25:19
+      Barry_O:
+        time: 29:47
+      Bill_P:
+        time: 29:36
+      Chris_E:
+        time: 26:18
+      David_Bu:
+        time: 28:37
+      Gail_B:
+        time: 35:22
+      Lewis_V:
+        time: 26:23
+      Mike_F:
+        time: 26:38
+      Nedra_F:
+        time: 30:53:w
+  10:
+    wind: 2-3 
+    date: 2016_07_31
+    RC:
+      - Ken_B
+      - Maryjane_B
+    notes: "M2 Delayed start T-storms"
+    skip:
+      Art_M:
+        time: 23:10
+      Barry_O:
+        time: 29:39
+      Bill_P:
+        time: 29:00
+      Chris_E:
+        time: 24:22
+      David_Bu:
+        time: 24:52
+      Gail_B:
+        time: DNF
+      Lewis_V:
+        time: 27:07
+      Mike_F:
+        time: 23:26
+      Nedra_F:
+        time: 28:13

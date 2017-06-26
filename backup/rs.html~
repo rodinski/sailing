@@ -1,0 +1,76 @@
+<p><a href="#top">Top</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#Results">Results</a> <br />
+<a href="#Race1">Race1</a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#Race2">Race2</a>  </p>
+
+<p>---- <a name="Race1"></a>  </p>
+
+<h2 id="race1">Race 1</h2>
+
+<pre><code>
+ Wind: 2-3 (BFT)  
+   RC: Rod_H, Ken_B  
+ Date: 2016_05_01  
+Notes: M2 270   
+                    a_time                        c_time   
+       Name   Boat   mm:ss   sec  /   hc  =c_sec   mm:ss  Rank  
+-----------   ----   -----   -------------------   -----  ----  
+      Art_M   SWSX   35:19   2119 / 0.959 = 2210   36:50   1  
+     Mike_F     SF   37:33   2253 / 1.004 = 2244   37:24   2  
+     Bill_P     SF   38:06   2286 / 1.004 = 2277   37:57   3  
+    Nedra_F     SF   39:08   2348 / 1.004 = 2339   38:59   4  
+      Ron_F     F5   37:48   2268 / 0.966 = 2348   39:08   5  
+  Michael_L   BNSH   38:45   2325 / 0.945 = 2460   41:00   6  
+      Pat_B     WF   37:58   2278 / 0.917 = 2484   41:24   7  
+    Lewis_V    BCN     DNF      0 /  0.87 =    0     DNF   8  
+</code></pre>
+
+<p><a href="#top">Top</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#Results">Results</a>  </p>
+
+<p>---- <a name="Race2"></a>  </p>
+
+<h2 id="race2">Race 2</h2>
+
+<pre><code>
+ Wind: 2-3 (BFT)  
+   RC: Rod_H, Ken_B  
+ Date: 2016_05_01  
+Notes: M2 270   
+                    a_time                        c_time   
+       Name   Boat   mm:ss   sec  /   hc  =c_sec   mm:ss  Rank  
+-----------   ----   -----   -------------------   -----  ----  
+     Mike_F     SF   30:56   1856 / 1.004 = 1849   30:49   1  
+      Ron_F     F5   31:00   1860 / 0.966 = 1925   32:05   2  
+      Art_M   SWSX   31:20   1880 / 0.959 = 1960   32:40   3  
+     Bill_P     SF   33:56   2036 / 1.004 = 2028   33:48   4  
+      Pat_B     WF   35:23   2123 / 0.917 = 2315   38:35   5  
+  Michael_L   BNSH   40:37   2437 / 0.945 = 2579   42:59   6  
+    Nedra_F     SF     DNF      0 / 1.004 =    0     DNF   7  
+</code></pre>
+
+<h2 id="toptopnbspnbspnbspnbspnbspresultsresults"><a href="#top">Top</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#Results">Results</a>  </h2>
+
+<p><a name="Results"></a></p>
+
+<h1 id="results">Results</h1>
+
+<pre><code>
+             Races Held: 2  
+Races Needed to Qualify: 1  
+   Name / Boat          Race  
+               1   2   RCpt     PTS
+              --  --  
+      Art_M    1   3     1 |    1= 1  
+     Mike_F    2   1     1 |    1= 1  
+      Ron_F    5   2     2 |    2= 2  
+     Bill_P    3   4     3 |    3= 3  
+    Nedra_F    4   7     4 |    4= 4  
+      Pat_B    7   5     5 |    5= 5  
+  Michael_L    6   6     6 |    6= 6  
+    Lewis_V    8   -     8 |    8= 8  
+      Ken_B   RC  RC    na |   na= na  
+      Rod_H   RC  RC    na |   na= na  
+</code></pre>
+
+<p><a href="#top">Top</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#Results">Results</a> <br />
+<a href="#Race1">Race1</a>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="#Race2">Race2</a>  </p>
+
+<p>race_scorer_v03.pl version 0.3 coded: 2016_03_13</p>

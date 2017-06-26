@@ -1,0 +1,790 @@
+---
+race:
+  1:
+    RC:
+      - Pat_B
+      - John_T
+    date: 2016_08_14
+    notes: I2 90
+    number_of_starters: 12
+    skip:
+      Art_M:
+        a_time: 1564
+        boat: SWSX
+        c_time: 1631
+        hc: 95.9
+        rank: 1
+        time: 26:04
+      Bill_P:
+        a_time: 1758
+        boat: SF
+        c_time: 1751
+        hc: 100.4
+        rank: 5
+        time: 29:18
+      Chris_E:
+        a_time: 1835
+        boat: SF
+        c_time: 1828
+        hc: 100.4
+        rank: 7
+        time: 30:35
+      David_Bu:
+        a_time: 1830
+        boat: SF
+        c_time: 1823
+        hc: 100.4
+        rank: 6
+        time: 30:30
+      Jay_H:
+        a_time: 1932
+        boat: SWSX
+        c_time: 2015
+        hc: 95.9
+        rank: 8
+        time: 32:12
+      Lewis_V:
+        a_time: 1787
+        boat: BCN
+        c_time: 2054
+        hc: 87.0
+        rank: 9
+        time: 29:47
+      Mike_F:
+        a_time: 1701
+        boat: SF
+        c_time: 1694
+        hc: 100.4
+        rank: 3
+        time: 28:21
+      Mike_S:
+        a_time: 2176
+        boat: FSCT
+        c_time: 2407
+        hc: 90.4
+        rank: 11
+        time: 36:16
+      Nedra_F:
+        a_time: 2170
+        boat: SF
+        c_time: 2161
+        hc: 100.4
+        rank: 10
+        time: 36:10
+      Rod_H:
+        a_time: 1698
+        boat: LASEM
+        c_time: 1745
+        hc: 97.3
+        rank: 4
+        time: 28:18
+      Ron_F:
+        a_time: 1631
+        boat: F5
+        c_time: 1688
+        hc: 96.6
+        rank: 2
+        time: 27:11
+      Stacy_O:
+        a_time: 2580
+        boat: SWSX
+        c_time: 2690
+        hc: 95.9
+        rank: 12
+        time: 43:00
+    wind: 2-3
+  2:
+    RC:
+      - Pat_B
+      - John_T
+    date: 2016_08_14
+    notes: F1 90
+    number_of_starters: 11
+    skip:
+      Art_M:
+        a_time: 1853
+        boat: SWSX
+        c_time: 1932
+        hc: 95.9
+        rank: 3
+        time: 30:53
+      Bill_P:
+        a_time: 1956
+        boat: SF
+        c_time: 1948
+        hc: 100.4
+        rank: 4
+        time: 32:36
+      David_Bu:
+        a_time: 1764
+        boat: SF
+        c_time: 1757
+        hc: 100.4
+        rank: 1
+        time: 29:24
+      Jay_H:
+        a_time: 2127
+        boat: SWSX
+        c_time: 2218
+        hc: 95.9
+        rank: 7
+        time: 35:27
+      Lewis_V:
+        a_time: 2060
+        boat: BCN
+        c_time: 2368
+        hc: 87.0
+        rank: 9
+        time: 34:20
+      Mike_F:
+        a_time: 1904
+        boat: SF
+        c_time: 1896
+        hc: 100.4
+        rank: 2
+        time: 31:44
+      Mike_S:
+        a_time: 2189
+        boat: FSCT
+        c_time: 2421
+        hc: 90.4
+        rank: 10
+        time: 36:29
+      Nedra_F:
+        a_time: 2257
+        boat: SF
+        c_time: 2248
+        hc: 100.4
+        rank: 8
+        time: 37:37
+      Rod_H:
+        a_time: 1907
+        boat: LASEM
+        c_time: 1960
+        hc: 97.3
+        rank: 6
+        time: 31:47
+      Ron_F:
+        a_time: 1891
+        boat: F5
+        c_time: 1958
+        hc: 96.6
+        rank: 5
+        time: 31:31
+      Stacy_O:
+        a_time: 2542
+        boat: SWSX
+        c_time: 2651
+        hc: 95.9
+        rank: 11
+        time: 42:22
+    wind: 2-3
+  3:
+    RC:
+      - Paul_B
+      - Nick_H
+    date: 2016_08_21
+    notes: M2 270
+    number_of_starters: 9
+    skip:
+      Art_M:
+        a_time: 3104
+        boat: SWSX
+        c_time: 3237
+        hc: 95.9
+        rank: 6
+        time: 51:44
+      Bill_P:
+        a_time: 3056
+        boat: SF
+        c_time: 3044
+        hc: 100.4
+        rank: 3
+        time: 50:56
+      David_Bu:
+        a_time: 3191
+        boat: SF
+        c_time: 3178
+        hc: 100.4
+        rank: 4
+        time: 53:11
+      Jay_H:
+        a_time: 3248
+        boat: SWSX
+        c_time: 3387
+        hc: 95.9
+        rank: 8
+        time: 54:08
+      John_T:
+        a_time: 2205
+        boat: US-1
+        c_time: 2415
+        hc: 91.3
+        rank: 1
+        time: 36:45
+      Mike_F:
+        a_time: 3047
+        boat: SF
+        c_time: 3035
+        hc: 100.4
+        rank: 2
+        time: 50:47
+      Nedra_F:
+        a_time: 3230
+        boat: SF
+        c_time: 3217
+        hc: 100.4
+        rank: 5
+        time: 53:50
+      Rod_H:
+        a_time: 3210
+        boat: LASEM
+        c_time: 3299
+        hc: 97.3
+        rank: 7
+        time: 53:30
+      Steve_R:
+        a_time: 3216
+        boat: HTR216
+        c_time: 3550
+        hc: 90.6
+        rank: 9
+        time: 53:36
+    wind: 2-3
+  4:
+    RC:
+      - Paul_B
+      - Nick_H
+    date: 2016_08_21
+    notes: I2 270
+    number_of_starters: 9
+    skip:
+      Art_M:
+        a_time: 1815
+        boat: SWSX
+        c_time: 1893
+        hc: 95.9
+        rank: 7
+        time: 30:15
+      Bill_P:
+        a_time: 1539
+        boat: SF
+        c_time: 1533
+        hc: 100.4
+        rank: 1
+        time: 25:39
+      David_Bu:
+        a_time: 1580
+        boat: SF
+        c_time: 1574
+        hc: 100.4
+        rank: 3
+        time: 26:20
+      Jay_H:
+        a_time: 1863
+        boat: SWSX
+        c_time: 1943
+        hc: 95.9
+        rank: 8
+        time: 31:03
+      John_T:
+        a_time: 1462
+        boat: US-1
+        c_time: 1601
+        hc: 91.3
+        rank: 4
+        time: 24:22
+      Mike_F:
+        a_time: 1553
+        boat: SF
+        c_time: 1547
+        hc: 100.4
+        rank: 2
+        time: 25:53
+      Nedra_F:
+        a_time: 1690
+        boat: SF
+        c_time: 1683
+        hc: 100.4
+        rank: 5
+        time: 28:10
+      Rod_H:
+        a_time: 1839
+        boat: LASEM
+        c_time: 1890
+        hc: 97.3
+        rank: 6
+        time: 30:39
+      Steve_R:
+        a_time: 1885
+        boat: HTR216
+        c_time: 2081
+        hc: 90.6
+        rank: 9
+        time: 31:25
+    wind: 2-3
+  5:
+    RC:
+      - Bill_P
+      - Jay_H
+    date: 2016_08_21
+    notes: M2 190
+    number_of_starters: 8
+    skip:
+      Art_M:
+        a_time: 2158
+        boat: SWSX
+        c_time: 2250
+        hc: 95.9
+        rank: 4
+        time: 35:58
+      Gail_B:
+        a_time: 2850
+        boat: SWSX
+        c_time: 2972
+        hc: 95.9
+        rank: 8
+        time: 47:30
+      John_T:
+        a_time: 1807
+        boat: US-1
+        c_time: 1979
+        hc: 91.3
+        rank: 2
+        time: 30:07
+      Lewis_V:
+        a_time: 1864
+        boat: BCN
+        c_time: 2143
+        hc: 87.0
+        rank: 3
+        time: 31:04
+      Pat_B:
+        a_time: 2541
+        boat: WF
+        c_time: 2771
+        hc: 91.7
+        rank: 7
+        time: 42:21
+      Ralph_H:
+        a_time: 2326
+        boat: SF
+        c_time: 2317
+        hc: 100.4
+        rank: 6
+        time: 38:46
+      Rod_H:
+        a_time: 2217
+        boat: LASEM
+        c_time: 2279
+        hc: 97.3
+        rank: 5
+        time: 36:57
+      Ron_F:
+        a_time: 1853
+        boat: F5
+        c_time: 1918
+        hc: 96.6
+        rank: 1
+        time: 30:53
+    wind: 2-3
+  6:
+    RC:
+      - Bill_P
+      - Jay_H
+    date: 2016_08_21
+    notes: M2 190
+    number_of_starters: 8
+    skip:
+      Art_M:
+        a_time: 1821
+        boat: SWSX
+        c_time: 1899
+        hc: 95.9
+        rank: 2
+        time: 30:21
+      Gail_B:
+        a_time: 2503
+        boat: SWSX
+        c_time: 2610
+        hc: 95.9
+        rank: 8
+        time: 41:43
+      John_T:
+        a_time: 1740
+        boat: US-1
+        c_time: 1906
+        hc: 91.3
+        rank: 3
+        time: 29:00
+      Lewis_V:
+        a_time: 1801
+        boat: BCN
+        c_time: 2070
+        hc: 87.0
+        rank: 6
+        time: 30:01
+      Pat_B:
+        a_time: 1840
+        boat: WF
+        c_time: 2007
+        hc: 91.7
+        rank: 5
+        time: 30:40
+      Ralph_H:
+        a_time: 2204
+        boat: SF
+        c_time: 2195
+        hc: 100.4
+        rank: 7
+        time: 36:44
+      Rod_H:
+        a_time: 1875
+        boat: LASEM
+        c_time: 1927
+        hc: 97.3
+        rank: 4
+        time: 31:15
+      Ron_F:
+        a_time: 1829
+        boat: F5
+        c_time: 1893
+        hc: 96.6
+        rank: 1
+        time: 30:29
+    wind: 2-3
+  7:
+    RC:
+      - David_Bu
+      - Mike_S
+    date: 2016_09_11
+    notes: G2 180
+    number_of_starters: 11
+    skip:
+      Art_M:
+        a_time: 2442
+        boat: SWSX
+        c_time: 2546
+        hc: 95.9
+        rank: 10
+        time: 40:42
+      Barry_O:
+        a_time: 2609
+        boat: HLR14
+        c_time: 2336
+        hc: 111.7
+        rank: 6
+        time: 43:29
+      Bill_P:
+        a_time: 1965
+        boat: SF
+        c_time: 1957
+        hc: 100.4
+        rank: 2
+        time: 32:45
+      Chris_E:
+        a_time: 2189
+        boat: SF
+        c_time: 2180
+        hc: 100.4
+        rank: 5
+        time: 36:29
+      Lewis_V:
+        a_time: 1863
+        boat: BCN
+        c_time: 2141
+        hc: 87.0
+        rank: 4
+        time: 31:03
+      Mike_F:
+        a_time: 2082
+        boat: SF
+        c_time: 2074
+        hc: 100.4
+        rank: 3
+        time: 34:42
+      Nedra_F:
+        a_time: 2564
+        boat: SF
+        c_time: 2554
+        hc: 100.4
+        rank: 11
+        time: 42:44
+      Pat_B:
+        a_time: 2219
+        boat: WF
+        c_time: 2420
+        hc: 91.7
+        rank: 8
+        time: 36:59
+      Ralph_H:
+        a_time: 2547
+        boat: SF
+        c_time: 2537
+        hc: 100.4
+        rank: 9
+        time: 42:27
+      Rod_H:
+        a_time: 2298
+        boat: LASEM
+        c_time: 2362
+        hc: 97.3
+        rank: 7
+        time: 38:18
+      Ron_F:
+        a_time: 1805
+        boat: F5
+        c_time: 1869
+        hc: 96.6
+        rank: 1
+        time: 30:05
+    wind: 2-3
+  8:
+    RC:
+      - David_Bu
+      - Mike_S
+    date: 2016_09_11
+    notes: 'G2 180  Port Rounding, ART !!!'
+    number_of_starters: 12
+    skip:
+      Art_M:
+        a_time: 2178
+        boat: SWSX
+        c_time: 2271
+        hc: 95.9
+        rank: 11
+        time: 36:18
+      Barry_O:
+        a_time: 2379
+        boat: HLR14
+        c_time: 2130
+        hc: 111.7
+        rank: 7
+        time: 39:39
+      Bill_P:
+        a_time: 2110
+        boat: SF
+        c_time: 2102
+        hc: 100.4
+        rank: 6
+        time: 35:10
+      Chris_E:
+        a_time: 2024
+        boat: SF
+        c_time: 2016
+        hc: 100.4
+        rank: 3
+        time: 33:44
+      Lewis_V:
+        a_time: 1886
+        boat: BCN
+        c_time: 2168
+        hc: 87.0
+        rank: 8
+        time: 31:26
+      Mike_F:
+        a_time: 2006
+        boat: SF
+        c_time: 1998
+        hc: 100.4
+        rank: 2
+        time: 33:26
+      Mike_K:
+        a_time: 2400
+        boat: SWSX
+        c_time: 2503
+        hc: 95.9
+        rank: 12
+        time: 40:00
+      Nedra_F:
+        a_time: 2076
+        boat: SF
+        c_time: 2068
+        hc: 100.4
+        rank: 5
+        time: 34:36
+      Pat_B:
+        a_time: 2069
+        boat: WF
+        c_time: 2256
+        hc: 91.7
+        rank: 10
+        time: 34:29
+      Ralph_H:
+        a_time: 2199
+        boat: SF
+        c_time: 2190
+        hc: 100.4
+        rank: 9
+        time: 36:39
+      Rod_H:
+        a_time: 1992
+        boat: LASEM
+        c_time: 2047
+        hc: 97.3
+        rank: 4
+        time: 33:12
+      Ron_F:
+        a_time: 1827
+        boat: F5
+        c_time: 1891
+        hc: 96.6
+        rank: 1
+        time: 30:27
+    wind: 2-3
+  9:
+    RC:
+      - Ron_F
+    date: 2016_09_18
+    notes: M
+    number_of_starters: 10
+    skip:
+      Anita_M:
+        a_time: 3030
+        boat: HLR14
+        c_time: 2674
+        hc: 113.3
+        rank: 8
+        time: 50:30
+      Art_M:
+        a_time: 2119
+        boat: SWSX
+        c_time: 2132
+        hc: 99.4
+        rank: 1
+        time: 35:19
+      Bill_P:
+        a_time: 2356
+        boat: SF
+        c_time: 2287
+        hc: 103.0
+        rank: 3
+        time: 39:16
+      Chris_E:
+        a_time: 2282
+        boat: SF
+        c_time: 2216
+        hc: 103.0
+        rank: 2
+        time: 38:02
+      David_Bu:
+        a_time: 2417
+        boat: SF
+        c_time: 2347
+        hc: 103.0
+        rank: 5
+        time: 40:17
+      Lewis_V:
+        a_time: 2067
+        boat: BCN
+        c_time: 2317
+        hc: 89.2
+        rank: 4
+        time: 34:27
+      Mike_F:
+        a_time: 2481
+        boat: SF
+        c_time: 2409
+        hc: 103.0
+        rank: 7
+        time: 41:21
+      Nedra_F:
+        a_time: 2420
+        boat: SF
+        c_time: 2350
+        hc: 103.0
+        rank: 6
+        time: 40:20
+      Pat_B:
+        a_time: 2982
+        boat: WF
+        c_time: 3172
+        hc: 94.0
+        rank: 10
+        time: 49:42
+      Ralph_H:
+        a_time: 3002
+        boat: SF
+        c_time: 2915
+        hc: 103.0
+        rank: 9
+        time: 50:02
+    wind: 0-1
+  10:
+    RC:
+      - Ron_F
+    date: 2016_09_18
+    notes: M
+    number_of_starters: 10
+    skip:
+      Anita_M:
+        a_time: 2544
+        boat: HLR14
+        c_time: 2278
+        hc: 111.7
+        rank: 8
+        time: 42:24
+      Art_M:
+        a_time: 2149
+        boat: SWSX
+        c_time: 2241
+        hc: 95.9
+        rank: 5
+        time: 35:49
+      Bill_P:
+        a_time: 2154
+        boat: SF
+        c_time: 2145
+        hc: 100.4
+        rank: 3
+        time: 35:54
+      Chris_E:
+        a_time: 2312
+        boat: SF
+        c_time: 2303
+        hc: 100.4
+        rank: 9
+        time: 38:32
+      David_Bu:
+        a_time: 2257
+        boat: SF
+        c_time: 2248
+        hc: 100.4
+        rank: 6
+        time: 37:37
+      Lewis_V:
+        a_time: 1845
+        boat: BCN
+        c_time: 2121
+        hc: 87.0
+        rank: 2
+        time: 30:45
+      Mike_F:
+        a_time: 1924
+        boat: SF
+        c_time: 1916
+        hc: 100.4
+        rank: 1
+        time: 32:04
+      Nedra_F:
+        a_time: 2492
+        boat: SF
+        c_time: 2482
+        hc: 100.4
+        rank: 10
+        time: 41:32
+      Pat_B:
+        a_time: 1983
+        boat: WF
+        c_time: 2162
+        hc: 91.7
+        rank: 4
+        time: 33:03
+      Ralph_H:
+        a_time: 2271
+        boat: SF
+        c_time: 2262
+        hc: 100.4
+        rank: 7
+        time: 37:51
+    wind: 2-3

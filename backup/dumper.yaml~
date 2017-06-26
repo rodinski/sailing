@@ -1,0 +1,304 @@
+---
+skip:
+  Anita_M:
+    finished_races: 1
+    low_n_list:
+      - DNQ
+    low_n_sum: DNQ
+    race:
+      1: 11
+    rc_points: 11
+    rced_races: 0
+  Art_M:
+    finished_races: 2
+    low_n_list:
+      - 1
+      - 1
+      - 1
+      - 3
+    low_n_sum: 6
+    race:
+      1: 3
+      6: 1
+      7: RC
+      8: RC
+    rc_points: 1
+    rced_races: 2
+  Barry_O:
+    finished_races: 2
+    low_n_list:
+      - 2
+      - 2
+      - 2
+      - 10
+    low_n_sum: 16
+    race:
+      3: RC
+      4: RC
+      5: 2
+      6: 10
+    rc_points: 2
+    rced_races: 2
+  Betsy_H:
+    finished_races: 3
+    low_n_list:
+      - 6
+      - 6.5
+      - 6.5
+      - 7
+    low_n_sum: 26
+    race:
+      1: 7
+      3: 6
+      6: 7
+      7: RC
+      8: RC
+    rc_points: 6.5
+    rced_races: 2
+  Bill_P:
+    finished_races: 5
+    low_n_list:
+      - 2
+      - 3
+      - 4
+      - 7
+    low_n_sum: 16
+    race:
+      1: 9
+      5: 7
+      6: 3
+      7: 4
+      8: 2
+    rc_points: 4
+    rced_races: 0
+  Chris_E:
+    finished_races: 5
+    low_n_list:
+      - 3
+      - 4
+      - 4
+      - 5
+    low_n_sum: 16
+    race:
+      1: 4
+      5: 3
+      6: 5
+      7: 5
+      8: 4
+    rc_points: 4
+    rced_races: 0
+  David_Bu:
+    finished_races: 4
+    low_n_list:
+      - 4
+      - 4
+      - 4.3
+      - 4.3
+    low_n_sum: 16.6
+    race:
+      1: RC
+      2: RC
+      5: 4
+      6: 4
+      7: 6
+      8: 5
+    rc_points: 4.3
+    rced_races: 2
+  Gail_B:
+    finished_races: 0
+    low_n_list:
+      - na
+    low_n_sum: na
+    race:
+      5: RC
+      6: RC
+    rc_points: na
+    rced_races: 2
+  John_T:
+    finished_races: 3
+    low_n_list:
+      - DNQ
+    low_n_sum: DNQ
+    race:
+      1: 1
+      7: 1
+      8: 1
+    rc_points: 1
+    rced_races: 0
+  Lewis_V:
+    finished_races: 6
+    low_n_list:
+      - 5
+      - 7
+      - 7
+      - 8
+    low_n_sum: 27
+    race:
+      3: 7
+      4: 5
+      5: 8
+      6: 8
+      7: 7
+      8: 9
+    rc_points: 7
+    rced_races: 0
+  Mike_F:
+    finished_races: 5
+    low_n_list:
+      - 1
+      - 2
+      - 3
+      - 3
+    low_n_sum: 9
+    race:
+      1: 2
+      3: 3
+      4: 1
+      7: 3
+      8: 6
+    rc_points: 2.3
+    rced_races: 0
+  Nedra_F:
+    finished_races: 3
+    low_n_list:
+      - DNQ
+    low_n_sum: DNQ
+    race:
+      1: 5
+      3: 5
+      4: 7
+    rc_points: 5
+    rced_races: 0
+  Nick_O:
+    finished_races: 2
+    low_n_list:
+      - DNQ
+    low_n_sum: DNQ
+    race:
+      3: 9
+      4: 9
+    rc_points: 9
+    rced_races: 0
+  Nick_S:
+    finished_races: 1
+    low_n_list:
+      - DNQ
+    low_n_sum: DNQ
+    race:
+      8: 8
+    rc_points: 8
+    rced_races: 0
+  Pat_B:
+    finished_races: 5
+    low_n_list:
+      - 6
+      - 8
+      - 9
+      - 9
+    low_n_sum: 32
+    race:
+      1: 10
+      3: 8
+      4: 6
+      5: 9
+      6: 9
+    rc_points: 8
+    rced_races: 0
+  Paul_B:
+    finished_races: 4
+    low_n_list:
+      - 1
+      - 2
+      - 4
+      - 6
+    low_n_sum: 13
+    race:
+      3: 2
+      4: 4
+      5: 1
+      6: 6
+    rc_points: 2.3
+    rced_races: 0
+  Ralph_H:
+    finished_races: 2
+    low_n_list:
+      - 6
+      - 6
+      - 6
+      - 8
+    low_n_sum: 26
+    race:
+      4: 8
+      5: 6
+      7: RC
+      8: RC
+    rc_points: 6
+    rced_races: 2
+  Rod_H:
+    finished_races: 7
+    low_n_list:
+      - 2
+      - 3
+      - 4
+      - 5
+    low_n_sum: 14
+    race:
+      1: 6
+      3: 4
+      4: 3
+      5: 5
+      6: 2
+      7: 8
+      8: 7
+    rc_points: 4.5
+    rced_races: 0
+  Ron_F:
+    finished_races: 4
+    low_n_list:
+      - 1
+      - 1.7
+      - 1.7
+      - 2
+    low_n_sum: 6.4
+    race:
+      1: RC
+      2: RC
+      3: 1
+      4: 2
+      7: 2
+      8: 3
+    rc_points: 1.7
+    rced_races: 2
+  Sandy_S:
+    finished_races: 0
+    low_n_list:
+      - na
+    low_n_sum: na
+    race:
+      1: RC
+      2: RC
+    rc_points: na
+    rced_races: 2
+  Sara_M:
+    finished_races: 0
+    low_n_list:
+      - na
+    low_n_sum: na
+    race:
+      3: RC
+      4: RC
+    rc_points: na
+    rced_races: 2
+  Stacy_O:
+    finished_races: 1
+    low_n_list:
+      - DNQ
+    low_n_sum: DNQ
+    race:
+      1: 8
+      3: RC
+      4: RC
+      5: RC
+      6: RC
+    rc_points: 8
+    rced_races: 4

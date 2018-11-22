@@ -1,0 +1,263 @@
+---
+ # I no longer need to input the boat for each of the known skippers
+ # except for cases where the skipper is not sailing his normal boat
+ # like Rod has done in the series.   See race 5 and after.
+ # 
+race:
+  1:
+    wind: ?
+    date: 2018_04_29
+    RC:
+      - Gail_K
+      - Mike_K
+      - Steve_R
+    notes: "no races, due to lack of skippers"
+    skip:
+  2:
+    wind: ?
+    date: 2018_04_30
+    RC:
+      - Gail_K
+      - Mike_K
+      - Steve_R
+    notes: "no races, due to lack of skippers"
+    skip:
+  3:
+    wind: 2-3
+    date: 2018_05_06
+    RC:
+      - John_T
+      - Betsy_H
+      - Ralph_H
+    notes: "M2 0" 
+    skip:
+      Art_M:
+        time: 36:27
+      Barry_O:
+        time: 48:11
+      Chris_E:
+        time: 38:09
+      Lewis_V:
+        time: 46:56
+      Mike_F:
+        time: 35:51
+      Nedra_F:
+        time: 38:11
+      Rod_H:
+        time: 35:12
+        boat: LASEM
+      Ron_F:
+        time: 36:58
+  4:
+    wind: 2-3
+    date: 2018_05_06
+    RC:
+      - John_T
+      - Betsy_H
+      - Ralph_H
+    notes: "M2 0" 
+    skip:
+      Art_M:
+        time: 26:34
+      Barry_O:
+        time: 38:25
+      Chris_E:
+        time: 26:19
+      Lewis_V:
+        time: 28:20
+      Mike_F:
+        time: 26:35
+      Nedra_F:
+        time: 30:20
+      Rod_H:
+        time: 26:02
+        boat: LASEM
+      Ron_F:
+        time: 24:37
+  5:
+    wind: 0-1
+    date: 2018_05_20
+    RC:
+      - Rod_H
+      - Chris_E
+    notes: "lack of skippers" 
+    skip: 
+  6:
+    wind: 0-1
+    date: 2018_05_20
+    RC:
+      - Rod_H
+      - Chris_E
+    notes: "lack of skippers" 
+    skip: 
+    
+  7:
+    wind: 2-3
+    date: 2018_06_03
+    RC:
+      - Lewis_V
+      - Ron_F
+    notes: "O course M plus an I  1 lap" 
+    skip: 
+      Barry_O:
+        time: 31:54
+      Bill_P:
+        time: 29:44
+      Chris_E:
+        time: 27:41
+      John_T:
+        time: DNF
+      Pat_B:
+        time: 29:34
+      Rod_H:
+        time: 27:45
+        boat: LASEM
+      Nick_H:
+        time: 29:47
+      Eric_P:
+        time: 32:12
+        boat: SWSX
+  8:
+    wind: 2-3
+    date: 2018_06_03
+    RC:
+      - Lewis_V
+      - Ron_F
+    notes: "O course M plus an I  1 lap" 
+    skip: 
+      Barry_O:
+        time: DSQ
+      Bill_P:
+        time: 27:22
+      Chris_E:
+        time: 31:06
+      Pat_B:
+        time: 32:46
+      Rod_H:
+        time: 25:45
+        boat: LASEM
+      Nick_H:
+        time: DNF
+      Eric_P:
+        time: 32:33
+        boat: SWSX
+
+  9:
+    wind: 2-3
+    date: 2018_06_03
+    RC:
+      - Lewis_V
+      - Ron_F
+    notes: "O course M plus an I  1 lap" 
+    skip: 
+      Barry_O:
+        time: 28:52
+      Chris_E:
+        time: 26:19
+      Pat_B:
+        time: 36:00
+      Rod_H:
+        time: 27:02
+        boat: LASEM
+      Eric_P:
+        time: 26:37
+        boat: SWSX
+  10:
+    wind: 2-3
+    date: 2018_06_10
+    RC:
+      - Barry_O
+      - Nick_H
+    notes: "M course 2 laps starboard rounding"
+    skip: 
+      Art_M:
+        time: 17:41
+      Chris_E:
+        time: 18:58
+      Pat_B: 
+        time: 19:50
+      Rod_H:
+        time: 18:17
+        boat: LASEM
+      David_Bu: 
+        time: 21:39
+      Mike_F: 
+        time: 22:53
+      Nedra_F:
+        time: 20:10
+      Ron_F:
+        time: DNF
+
+  11:
+    wind: 2-3
+    date: 2018_06_10
+    RC:
+      - Barry_O
+      - Nick_H
+    notes: "M course 2 laps starboard rounding"
+    skip: 
+      Art_M:
+        time: 17:02
+      Chris_E:
+        time: DNF
+      Pat_B: 
+        time: 19:50
+      Rod_H:
+        time: 17:17
+        boat: LASEM
+      David_Bu: 
+        time: DNF
+      Mike_F: 
+        time: 17:08
+      Nedra_F:
+        time: 18:27
+      Ron_F:
+        time: 17:07
+
+  12:
+    wind: 2-3
+    date: 2018_06_10
+    RC:
+      - Barry_O
+      - Nick_H
+    notes: "M course 2 laps starboard rounding"
+    skip: 
+      Art_M:
+        time: 17:48
+      Chris_E:
+        time: 18:10
+      Pat_B: 
+        time: 21:30
+      Rod_H:
+        time: 17:20
+        boat: LASEM
+      David_Bu: 
+        time: DNS
+      Mike_F: 
+        time: DNS
+      Nedra_F:
+        time: DNS
+      Ron_F:
+        time: 18:35
+
+
+
+
+#     Art_M:
+#     Barry_O:
+#     Betsy_H:
+#     Bill_P:
+#     Chris_E:
+#     David_Bu:
+#     Eliot_A:
+#     Gail_B:
+#     John_T:
+#     Lewis_V:
+#     Mike_F:
+#     Mike_S:
+#     Nedra_F:
+#     Nick_H:
+#     Ralph_H:
+#     Rod_H:
+#     Ron_F:
+#     Xavier:

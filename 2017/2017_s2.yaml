@@ -1,0 +1,262 @@
+---
+ # I no longer need to input the boat for each of the known skippers
+ # except for cases where the skipper is not sailing his normal boat
+ # like Rod has done in the series.   See race 5 and after.
+ # 
+race:
+  1:
+    wind: 0-1
+    date: 2017_06_25
+    RC:
+      - Art_M
+      - Sara_M
+    notes: "M3"
+    skip:
+      Barry_O:
+        time:  53:07
+      Bill_P:
+        time:  46:43
+      Chris_E:
+        time:  49:09
+      David_Bu:
+        time:  50:18
+      Gail_B:
+        time:  53:38
+      John_T:
+        time:  38:01
+      Lewis_V:
+        time:  47:21
+      Mike_F:
+        time:  45:15
+      Mike_S:
+        time:  43:03
+      Nedra_F:
+        time:  48:18
+      Rod_H:
+        time:  46:49
+        boat: LASEM
+      Ron_F:
+        time:  42:37
+      Xavier:
+        boat: SWSX
+        time:  DSQ
+  2:
+    wind: 0-1
+    date: 2017_06_25
+    RC:
+      - Art_M
+      - Sara_M
+    notes: "M3"
+    skip:
+      Barry_O:
+        time: 54:42
+      Bill_P:
+        time:  51:53
+      Chris_E:
+        time:  53:06
+      David_Bu:
+        time:  51:51
+      Gail_B:
+        time:  57:32
+      John_T:
+        time:  43:27
+      Lewis_V:
+        time:  45:09
+      Mike_F:
+        time:  46:48
+      Mike_S:
+        time:  46:04
+      Nedra_F:
+        time:  53:28
+      Rod_H:
+        time:  46:54
+        boat: LASEM
+      Ron_F:
+        time:  47:59
+      Xavier:
+        boat: SWSX
+        time:  49:03
+  3:
+    wind: 2-3
+    date: 2017_07_09
+    RC:
+      - Ron_F
+      - David_Bu
+    notes: "M2 180  Port Rounding"
+    skip:
+      Art_M:
+        time: 35:58
+      Barry_O:
+        time: 47:27
+      Chris_E:
+        time:  41:00
+      Lewis_V:
+        time:  37:56
+      Mike_F:
+        time:  40:30
+      Mike_S:
+        time:  39:13
+      Nedra_F:
+        time:  43:29
+      Rod_H:
+        time:  38:55
+        boat: LASEM
+      Xavier:
+        boat: SWSX
+        time:  40:10
+  4:
+    wind: 2-3
+    date: 2017_07_09
+    RC:
+      - Ron_F
+      - David_Bu
+    notes: "M2 180  Port Rounding "
+    skip:
+      Art_M:
+        time: 34:37
+      Chris_E:
+        time:  36:54
+      Lewis_V:
+        time:  36:52
+      Mike_F:
+        time:  36:14
+      Mike_S:
+        time:  33:51
+      Nedra_F:
+        time:  38:24
+      Rod_H:
+        time:  37:21
+        boat: LASEM
+      Sara_M:
+        time:  47:56
+        boat: BNSH 
+      Xavier:
+        boat: SWSX
+        time:  37:35
+  5:
+    wind: 0-1
+    date: 2017_07_16
+    RC:
+      - Chris_E
+      - Lewis_V
+    notes: "M2 270  Port Rounding "
+    skip:
+      Art_M: 
+        time: 29:53
+      David_Bu:
+        time:  31:19
+      Gail_B:
+        time:  60:00
+      John_T:
+        time:  28:08
+      Mike_S:
+        time:  35:32
+        boat: SF
+      Rod_H:
+        time:  28:46
+        boat: LASEM
+      Xavier:
+        time:  30:41
+  6:
+    wind: 0-1
+    date: 2017_07_16
+    RC:
+      - Chris_E
+      - Lewis_V
+    notes: "M2 270  Port Rounding "
+    skip:
+      Art_M: 
+        time: 49:55
+      David_Bu:
+        time:  67:55
+      Gail_B:
+        time: DNF
+      John_T:
+        time:  46:43
+      Mike_S:
+        time:  68:13
+        boat: SF
+      Rod_H:
+        time:  67:48
+        boat: LASEM
+      Xavier:
+        time:  61:49
+  7:
+    wind: 0-1
+    date: 2017_07_23
+    RC:
+      - Mike_S
+      - Nick_H
+      - Steve_R
+    notes: "I2 90  Port Rounding   sortend to 1 lap"
+    skip:
+      Bill_P:
+        time:  43:36
+      Lewis_V:
+        boat: SF
+        time:  51:06
+      Rod_H: 
+        time: DNF
+      Ron_F: 
+        time: 38:05
+  8:
+    wind: 0-1
+    date: 2017_07_23
+    RC:
+      - Mike_S
+      - Nick_H
+      - Steve_R
+    notes: "No race, lack of wind, skipper and interest."
+    skip:
+  9:
+    wind: 0-1
+    date: 2017_07_30
+    RC:
+      - Barry_O
+      - Rod_H
+    notes: "M2 90,  shortened to M1"
+    skip:
+      Art_M:
+        time: 26:48
+      Bill_P:
+        time: 29:49
+      David_Bu:
+        time: 26:11
+      John_T:
+        time: 20:34
+      Lewis_V:
+        time: 27:03
+      Mike_F:
+        time: 20:58
+      Nedra_F:
+        time: DNF
+      Ron_F: 
+        time: 26:48
+      Xavier:
+        time:  25:56
+  10:
+    wind: 2-3
+    date: 2017_07_30
+    RC:
+      - Barry_O
+      - Rod_H
+    notes: "M2 90"
+    skip:
+      Art_M:
+        time: 24:28
+      Bill_P:
+        time: 27:45
+      David_Bu:
+        time: 28:05
+      John_T:
+        time: 23:48
+      Lewis_V:
+        time: 23:19
+      Mike_F:
+        time: 24:52
+      Nedra_F:
+        time: 27:55
+      Ron_F: 
+        time: 24:17
+      Xavier:
+        time:  26:34

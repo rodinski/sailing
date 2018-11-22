@@ -127,17 +127,33 @@ boat:
       D-PH:   112.1
       0-1:    112.6
       2-3:    111.0
-
+  BNSH:
+    full_name: Banshee
+    short_name: BNSH 
+    hc_of_wind: 
+      D-PH: 93.7
+      0-1: 95.9
+      2-3: 94.5
+      4: 92.5
+      5-9: 90.6
   FSCT:
-    full_name: Flying Scot
+    full_name: Flying Scott
     short_name: FSCT
-    hc_of_wind:
-      D-PH:   89.6
-      0-1:    92.1
-      2-3:    90.4
-      4:      89.1
-      5-9:    87.5
-
+    hc_of_wind: 
+      D-PH: 89.6
+      0-1: 92.1
+      2-3: 90.4
+      4: 89.1
+      5-9: 87.5 
+  HTR216:
+    full_name:  Hunter 216
+    short_name: HTR216
+    hc_of_wind: 
+      D-PH: 91.0
+      0-1: 91.0
+      2-3: 90.6
+      4: 91.0
+      5-9: 91.0 
   CAT125:
     full_name: Catalina Expo 12.5
     short_name: CAT125
@@ -150,94 +166,74 @@ boat:
 
 ---
 name:
-  Mike_S:
-    boat: FSCT
-    fleet: open
   Art_M:
     boat: SWSX
-    fleet: SWSX
   Barry_O:
     boat: HLR14
-    fleet: open
   Betsy_H: 
     boat: SF
-    fleet: open
   Bill_P:
-    boat: VGD15
-    fleet: open
+    boat: SF
   David_Bu:
     boat: SF
-    fleet: open
   David_Bl:
-    fleet: open
   Eliott_A:
     boat: LASE2
-    fleet: open
   Jay_H:
     boat: SWSX
-    fleet: SWSX
   John_T:
     boat: US-1
-    fleet: open
   Ken_B:
     boat: SWSX
-    fleet: SWSX
   Mike_F:
     boat: SF
-    fleet: open
   Nedra_F:
     boat: SF
-    fleet: open
   Pat_B:
     boat: WF
-    fleet: open
   Paul_B:
     boat: BCN
-    fleet: open
   Ralph_H:
     boat: SF
-    fleet: open
   Rod_H:
     boat: PUF
-    fleet: open
   Ron_F:
     boat: F5
-    fleet: open
   Stacy_O:
     boat: SWSX
-    fleet: SWSX
   Gail_K:
     boat: SWSX
-    fleet: SWSX
   Anita_M:
     boat: HLR14
-    fleet: open
   Nick_H:
     boat: SF
-    fleet: open
   Kerry_B:
     boat: SWSX
-    fleet: SWSX
   Cindy_B:
     boat: SF
-    fleet: open
   Ed_R:
     boat: SWSX
-    fleet: SWSX
+  Jack_A:
+    boat: SWSX
   James_B:
     boat: SF
-    fleet: open
   Todd_P:
     boat: SN
-    fleet: open
   Sara_M:
     boat: SWSX
-    fleet: SWSX
   Adrian_E:
     boat: LASE
   Laura_B:
     boat: PHNTM
   Lewis_V: 
     boat: BCN
-    fleet: open
-
+  Michael_L:
+    boat: BNSH
+  Chris_E:
+    boat: SF
+  Mike_S:
+    boat: FSCT
+  Steve_R:
+    boat: HTR216
+  Xavier:
+    boat: SWSX

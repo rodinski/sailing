@@ -21,6 +21,7 @@ echo ""
 #gdrive upload 2016_s3.yaml
 #gdrive upload 2017_s1.yaml
 #gdrive upload 2017_s3.yaml
-gdrive upload 2018_s2.yaml
+#gdrive upload 2018_s2.yaml
+gdrive upload 2019_s1.yaml
 less rs.markdown
 

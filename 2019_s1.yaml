@@ -1,0 +1,153 @@
+---
+#2019 Series 1
+race:
+  1:
+    wind: ?
+    date: 2019_04_28
+    RC:
+      - John_T
+      - David_Bu
+    notes: ""
+    skip:
+#     Art_M:
+#       time: : 
+#     Barry_O:
+#       time: : 
+#     Bill_P:
+#       time: : 
+#     Chris_E:
+#       time: : 
+#     Lewis_V:
+#       time: : 
+#     Mike_F:
+#       time: : 
+#     Nedra_F:
+#       time: : 
+#     Pat_B:
+#       time: : 
+#     Rod_H:
+#       boat:
+#       time: : 
+#     Ron_F:
+#       time: : 
+
+  2:
+    wind: ?
+    date: 2019_04_28
+    RC:
+      - John_T
+      - David_Bu
+    notes: ""
+    skip:
+
+
+  3:
+    wind: ?
+    RC:
+      - John_T
+      - David_Bu
+    notes: ""
+    skip:
+# 3:
+#   wind: 2-3
+#   date: 2019_05_05
+#   RC:
+#     - Nick_H
+#     - Barry_O
+#   notes: "" 
+#   skip:
+#     Art_M:
+#       time: 36:27
+#     Barry_O:
+#       time: 48:11
+#     Chris_E:
+#       time: 38:09
+#     Lewis_V:
+#       time: 46:56
+#     Mike_F:
+#       time: 35:51
+#     Nedra_F:
+#       time: 38:11
+#     Rod_H:
+#       time: 35:12
+#       boat: LASEM
+#     Ron_F:
+#       time: 36:58
+# 4:
+#   wind: 2-3
+#   date: 2019_05_05
+#   RC:
+#     - Nick_H
+#     - Barry_O
+#   notes: "" 
+#   skip:
+# 5:
+#   wind: 0-1
+#   date: 2019_05_12
+#   RC:
+#     - 
+#     - 
+#   notes: "" 
+#   skip: 
+# 6:
+#   wind: 0-1
+#   date: 2019_05_12
+#   RC:
+#     - 
+#     - 
+#   notes: "" 
+#   skip: 
+#
+
+
+#     - Barry_O
+#     - Betsy_H
+#     - Chris_E
+#     - Gail_K
+#     - John_T
+#     - Lewis_V
+#     - Mike_K
+#     - Nick_H
+#     - Ralph_H
+#     - Rod_H
+#     - Ron_F
+#     - Steve_R
+#     Art_M:
+#       time: : 
+#     Barry_O:
+#       time: : 
+#     Betsy_H:
+#       time: : 
+#     Bill_P:
+#       time: : 
+#     Chris_E:
+#       time: : 
+#     David_Bu:
+#       time: : 
+#     Eliot_A:
+#       time: : 
+#     Eric_P:
+#       time: : 
+#     Gail_B:
+#       time: : 
+#     John_T:
+#       time: : 
+#     Lewis_V:
+#       time: : 
+#     Mike_F:
+#       time: : 
+#     Mike_S:
+#       time: : 
+#     Nedra_F:
+#       time: : 
+#     Nick_H:
+#       time: : 
+#     Pat_B:
+#       time: : 
+#     Ralph_H:
+#       time: : 
+#     Rod_H:
+#       boat:
+#       time: : 
+#     Ron_F:
+#       time: : 

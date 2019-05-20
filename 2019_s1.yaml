@@ -1,35 +1,29 @@
 ---
 #2019 Series 1
+# FYI   LASE = full   LASEM = rad. or mod.
 race:
   1:
-    wind: ?
+    wind: 2-3
     date: 2019_04_28
     RC:
       - John_T
       - David_Bu
-    notes: ""
+    notes: "I2 RC off of the dock"
     skip:
-#     Art_M:
-#       time: : 
-#     Barry_O:
-#       time: : 
-#     Bill_P:
-#       time: : 
-#     Chris_E:
-#       time: : 
-#     Lewis_V:
-#       time: : 
-#     Mike_F:
-#       time: : 
-#     Nedra_F:
-#       time: : 
-#     Pat_B:
-#       time: : 
-#     Rod_H:
-#       boat:
-#       time: : 
-#     Ron_F:
-#       time: : 
+      Art_M:
+        time: 26:50 
+      Bill_P:
+        time: 30:15 
+      Chris_E:
+        time: 28:51 
+      Rod_H:
+        boat: LASEM
+        time: 27:03 
+      Ron_F:
+        time: DNF
+      David_G:
+        boat: LASE
+        time: 60:00
 
   2:
     wind: ?
@@ -37,18 +31,140 @@ race:
     RC:
       - John_T
       - David_Bu
-    notes: ""
+    notes: "Race canceled due to storm cell."
     skip:
-
 
   3:
-    wind: ?
+    wind: 2-3
+    date: 2019_05_05
     RC:
-      - John_T
-      - David_Bu
-    notes: ""
+      - Barry_O
+      - Nick_H
+    notes: "M2 270"
     skip:
-# 3:
+      Bill_P:
+        time: 22:28
+      Chris_E:
+        time: 17:15
+      Rod_H:
+        boat: LASEM
+        time: 16:59
+      Ron_F:
+        time: 16:19
+      David_G:
+        boat: LASE
+        time: 28:05
+      Lewis_V:
+        time: 19:40
+      Pat_B:
+        time: 21:17
+  4:
+    wind: 2-3
+    date: 2019_05_05
+    RC:
+      - Barry_O
+      - Nick_H
+    notes: "M2 270"
+    skip:
+      Bill_P:
+        time: 23:34
+      Chris_E:
+        time: 21:53
+      Lewis_V:
+        time: 22:35
+      Pat_B:
+        time: 27:11
+      Rod_H:
+        boat: LASEM
+        time: 20:26
+      Ron_F:
+        time: 21:04
+      David_G:
+        boat: LASE
+        time: 22:46
+
+  5:
+    wind: 2-3
+    date: 2019_05_05
+    RC:
+      - Barry_O
+      - Nick_H
+    notes: "M2 270"
+    skip:
+      Bill_P:
+        time: 20:30
+      Chris_E:
+        time: 20:14
+      Lewis_V:
+        time: 22:50
+      Rod_H:
+        boat: LASEM
+        time: 18:57
+      Ron_F:
+        time: DNF
+      Pat_B:
+        time: 26:53
+      David_G:
+        boat: LASE
+        time: 22:10
+
+  6:
+    wind: 2-3
+    date: 2019_05_19
+    RC:
+      - Mike_F
+      - Nedra_F
+      - Chris_E
+    notes: "M2 280"
+    skip:
+      Art_M:
+        time: 23:40
+      Bill_P:
+        time: 28:17
+      David_Bu:
+        time: 29:08
+      Lewis_V:
+        time: 25:54
+      Pat_B:
+        time: 29:26
+      Rod_H:
+        boat: LASEM
+        time: 26:28
+      Ron_F:
+        time: 28:10
+      David_G:
+        boat: LASE
+        time: 60:00
+
+
+  7:
+    wind: 4
+    date: 2019_05_19
+    RC:
+      - Mike_F
+      - Nedra_F
+      - Chris_E
+    notes: "F 280"
+    skip:
+      Art_M:
+        time: 22:14
+      Bill_P:
+        time: 30:54
+      David_Bu:
+        time: 31:10
+      Lewis_V:
+        time: 26:30
+      Pat_B:
+        time: DNF
+      Rod_H:
+        boat: LASEM
+        time: 26:21
+      Ron_F:
+        time: 23:53
+      David_G:
+        boat: LASE
+        time: 52:40
+
 #   wind: 2-3
 #   date: 2019_05_05
 #   RC:

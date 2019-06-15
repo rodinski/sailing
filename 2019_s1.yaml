@@ -165,6 +165,56 @@ race:
         boat: LASE
         time: 52:40
 
+  8:
+    wind: 2-3
+    date: 2019_06_09
+    RC:
+      - Bill_P
+      - Mike_S
+    notes: "M 3"
+    skip:
+      Art_M:
+        time: 37:36
+      Chris_E:
+        time: 37:17
+      Mike_F:
+        time: 35:52
+      Nedra_F:
+        time: 37:34
+      Rod_H:
+        boat: LASEM
+        time: 36:45
+      Ron_F:
+        time: 34:59
+      David_G:
+        boat: LASE
+        time: 37:16
+
+  9:
+    wind: 2-3
+    date: 2019_06_09
+    RC:
+      - Bill_P
+      - Mike_S
+    notes: "M 3"
+    skip:
+      Art_M:
+        time: 36:18
+      Chris_E:
+        time: 37:39
+      Mike_F:
+        time: 35:56
+      Nedra_F:
+        time: 38:11
+      Rod_H:
+        boat: LASEM
+        time: 35:50
+      Ron_F:
+        time: 37:24
+      David_G:
+        boat: LASE
+        time: 38:56
+
 #   wind: 2-3
 #   date: 2019_05_05
 #   RC:

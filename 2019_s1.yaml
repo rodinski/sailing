@@ -215,6 +215,61 @@ race:
         boat: LASE
         time: 38:56
 
+  10:
+    wind: 2-3
+    date: 2019_06_16
+    RC:
+      - Rod_H
+      - David_G
+    notes: "M 2"
+    skip:
+      Bill_P:
+        time: 65:15
+      Chris_E:
+        time: 67:28
+      David_Bu:
+        time: 71:04
+      John_T:
+        time: 56:12
+      Mike_F:
+        time: 54:41
+      Nedra_F:
+        time: DNF
+      Nick_H:
+        time: 70:22
+      Ron_F:
+        time: 58:30
+
+  11:
+    wind: 2-3
+    date: 2019_06_16
+    RC:
+      - Rod_H
+      - David_G
+    notes: "I 1"
+    skip:
+      Bill_P:
+        time: 15:46
+      Chris_E:
+        time: DNS
+      David_Bu:
+        time: 14:56
+      John_T:
+        time: DNF
+      Mike_F:
+        time: DNF
+      Nedra_F:
+        time: DNF
+      Nick_H:
+        time: DNS
+      Ron_F:
+        time: DNF
+      Eric_P:
+        boat: SWSX
+        time: 15:31
+
+
+
 #   wind: 2-3
 #   date: 2019_05_05
 #   RC:

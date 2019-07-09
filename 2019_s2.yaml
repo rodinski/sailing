@@ -1,0 +1,100 @@
+---
+#2019 Series 2
+# FYI   LASE = full   LASEM = rad. or mod.
+race:
+  1:
+    wind: 2-3
+    date: 2019_06_30
+    RC:
+      - Art_M
+      - Pat_B
+    notes: "none"
+    skip:
+      Barry_O:
+        time: 46:25
+      Bill_P:
+        time: 41:46
+      Chris_E:
+        time: 42:12
+      Lewis_V:
+        time: 32:59
+      Mike_F:
+        time: 41:16
+      Nedra_F:
+        time: DNF
+
+  2:
+    wind: 2-3
+    date: 2019_06_30
+    RC:
+      - Art_M
+      - Pat_B
+    notes: "none"
+    skip:
+      Barry_O:
+        time: 48:20
+      Bill_P:
+        time: 45:14
+      Chris_E:
+        time: DNS
+      Lewis_V:
+        time: 42:26
+      Mike_F:
+        time: 43:37
+      Nedra_F:
+        time: 45:09
+
+
+
+
+#     - Barry_O
+#     - Betsy_H
+#     - Chris_E
+#     - Gail_K
+#     - John_T
+#     - Lewis_V
+#     - Mike_K
+#     - Nick_H
+#     - Ralph_H
+#     - Rod_H
+#     - Ron_F
+#     - Steve_R
+#     Art_M:
+#       time: : 
+#     Barry_O:
+#       time: : 
+#     Betsy_H:
+#       time: : 
+#     Bill_P:
+#       time: : 
+#     Chris_E:
+#       time: : 
+#     David_Bu:
+#       time: : 
+#     Eliot_A:
+#       time: : 
+#     Eric_P:
+#       time: : 
+#     Gail_B:
+#       time: : 
+#     John_T:
+#       time: : 
+#     Lewis_V:
+#       time: : 
+#     Mike_F:
+#       time: : 
+#     Mike_S:
+#       time: : 
+#     Nedra_F:
+#       time: : 
+#     Nick_H:
+#       time: : 
+#     Pat_B:
+#       time: : 
+#     Ralph_H:
+#       time: : 
+#     Rod_H:
+#       boat:
+#       time: : 
+#     Ron_F:
+#       time: : 

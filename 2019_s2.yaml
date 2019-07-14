@@ -44,8 +44,49 @@ race:
       Nedra_F:
         time: 45:09
 
+  3:
+    wind: 2-3
+    date: 2019_07_14
+    notes: "M2"
+    RC:
+      - Mike_F
+      - Nedra_F
+    skip:
+      Art_M:
+        time: 19:04
+      Barry_O:
+        time: 22:02
+      David_Bu:
+        time: 21:32
+      Lewis_V:
+        time: 19:14
+      Rod_H:
+        time: 18:45
+        boat: LASEM
+      Ron_F:
+        time: 16:06
 
-
+  4:
+    wind: 2-3
+    date: 2019_07_14
+    notes: "M4"
+    RC:
+      - Mike_F
+      - Nedra_F
+    skip:
+      Art_M:
+        time: 37:32
+      Barry_O:
+        time: 50:55
+      David_Bu:
+        time: 42:40
+      Lewis_V:
+        time: 42:22
+      Rod_H:
+        time: 37:45
+        boat: LASEM
+      Ron_F:
+        time: 34:37
 
 #     - Barry_O
 #     - Betsy_H

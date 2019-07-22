@@ -88,7 +88,50 @@ race:
       Ron_F:
         time: 34:37
 
-#     - Barry_O
+  5:
+    wind: 2-3
+    date: 2019_07_21
+    notes: "M2"
+    RC:
+      - Nick_H
+      - David_Bu
+    skip:
+      Barry_O:
+        time: 34:34
+      Lewis_V:
+        time: 37:21
+      Mike_F:
+        time: 29:07
+      Nedra_F:
+        time: 31:09
+      Rod_H:
+        time: 30:12
+        boat: LASEM
+      Ron_F:
+        time: 29:20
+
+  6:
+    wind: 2-3
+    date: 2019_07_21
+    notes: "M2"
+    RC:
+      - Nick_H
+      - David_Bu
+    skip:
+      Barry_O:
+        time: DNF
+      Lewis_V:
+        time: DNF
+      Mike_F:
+        time: 28:17
+      Nedra_F:
+        time: 29:27
+      Rod_H:
+        time: DNF
+        boat: LASEM
+      Ron_F:
+        time: 25:35
+
 #     - Betsy_H
 #     - Chris_E
 #     - Gail_K

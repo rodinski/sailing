@@ -1,0 +1,264 @@
+---
+#2020 Series 1
+# FYI   LASE = full   LASEM = rad. or mod.
+#
+race:
+  1:
+    wind: 2-3
+    date: 2020_05_31
+    RC:
+      - Nedra_F
+      - Mike_F
+    notes: "M2  Starboard Rounding"
+    skip:
+      Barry_O:
+        time: 29:17
+      Bill_P:
+        time: 26:15
+      Ian_O:
+        boat: SF
+        time: 32:08
+      Jim_S:
+        boat: SF
+        time: 42:22
+      Matt_L:
+       boat: DLPSR
+       time: FIP_8
+      Nick_H:
+        time: 28:10
+      Rod_H:
+        time: 23:10
+      Ron_F:
+        time: 22:57
+  2:
+    wind: 2-3
+    date: 2020_05_31
+    RC:
+      - Nedra_F
+      - Mike_F
+    notes: "M2  Starboard Rounding"
+    skip:
+      Barry_O:
+        time: 26:48
+      Bill_P:
+        time: 23:29
+      Ian_O:
+        boat: SF
+        time: 26:28
+      Jim_S:
+        boat: SF
+        time: 33:07
+      Matt_L:
+       boat:  DLPSR
+       time:  27:08
+      Nick_H:
+        time: 25:45
+      Rod_H:
+        time: 22:48
+      Ron_F:
+        time: 20:26
+ 
+  3:
+    wind: 2-3
+    date: 2020_06_07
+    RC:
+      - Barry_O
+      - Bill_P
+    notes: "M3  Starboard Rounding"
+    skip:
+      Ian_O:
+        boat: SF
+        time: 39:39
+      Jay_H:
+        boat: SWSX
+        time: 39:19
+      Jim_S:
+        boat: SF
+        time: FIP_8
+      Lewis_V:
+        time: 33:43
+      Matt_L:
+       boat:  DLPSR
+       time:  41:28
+      Mike_F:
+       time:  37:10
+      Nedra_F:
+       time:  40:56
+      Rod_H:
+        time: 36:12
+      Ron_F:
+        time: DNF
+
+  4:
+    wind: 2-3
+    date: 2020_06_07
+    RC:
+      - Barry_O
+      - Bill_P
+    notes: "M3  Starboard Rounding"
+    skip:
+      Ian_O:
+        boat: SF
+        time: 37:16
+      Jay_H:
+        boat: SWSX
+        time: 34:43
+      Jim_S:
+        boat: SF
+        time: 45:37
+      Lewis_V:
+        time: 33:44
+      Matt_L:
+       boat:  DLPSR
+       time:  50:17
+      Mike_F:
+       time:  36:07
+      Nedra_F:
+       time:  36:30
+      Rod_H:
+        time: 34:49
+      Ron_F:
+        time: 31:11
+#
+  5:
+    wind: 2-3
+    date: 2020_06_14
+    RC:
+      - Lewis_V
+      - Nick_H
+    notes: "M2 Starboard Rounding"
+    skip:
+      Bill_P:
+        time: 28:18
+      Mike_F:
+       time:  27:44
+      Nedra_F:
+       time:  27:56
+      Rod_H:
+        time: 28:38
+      Ron_F:
+        time: 27:10
+      Jim_S:
+        boat: SF
+        time: 38:20
+      Ian_O:
+        boat: SF
+        time: 28:57
+      Matt_L:
+       boat:  DLPSR
+       time:  40:06
+#
+  6:
+    wind: 2-3
+    date: 2020_06_14
+    RC:
+      - Lewis_V
+      - Nick_H
+    notes: "M2 Starboard Rounding"
+    skip:
+      Bill_P:
+        time: 32:30
+      Mike_F:
+       time:  30:41
+      Nedra_F:
+       time:  32:29
+      Rod_H:
+        time: 30:22
+      Ron_F:
+        time: 30:12
+      Jim_S:
+        boat: SF
+        time: 42:20
+      Ian_O:
+        boat: SF
+        time: 37:57
+      Matt_L:
+       boat:  DLPSR
+#       
+  7:
+    wind: 2-3
+    date: 2020_06_21
+    RC:
+      - David_Bu
+      - Mike_S
+    notes: "M2" 
+    skip:
+      Barry_O:
+        time: 40:26
+      Bill_P:
+        time: 35:39
+      Jay_H:
+        time: 37:33
+        boat: CAT125
+      Ron_F:
+        time: 34:35
+      Jim_S:
+        boat: SF
+        time: 41:21
+      Ian_O:
+        boat: SF
+        time: 40:24
+      Matt_L:
+       boat:  DLPSR
+       time:  41:04
+
+  8:
+    wind: 2-3
+    date: 2020_06_21
+    RC:
+      - David_Bu
+      - Mike_S
+    notes: "M2" 
+    skip:
+      Barry_O:
+        time: 42:01
+      Bill_P:
+        time: 38:30
+      Jay_H:
+        time: 42:39
+        boat: CAT125
+      Ron_F:
+        time: 37:44
+      Jim_S:
+        boat: SF
+        time: 50:35
+      Ian_O:
+        boat: SF
+        time: 41:29
+      Matt_L:
+       boat:  DLPSR
+       time:  52:12
+
+#      
+#     - Betsy_H
+#     - Chris_E
+#     - Gail_K
+#     - John_T
+#     - Lewis_V
+#     - Mike_K
+#     - Nick_H
+#     - Ralph_H
+#     - Rod_H
+#     - Ron_F
+#     - Steve_R
+#
+#     Art_M:
+#     Barry_O:
+#     Betsy_H:
+#     Bill_P:
+#     Chris_E:
+#     David_Bu:
+#     Eliot_A:
+#     Eric_P:
+#     Gail_B:
+#     Ian_O:
+#     John_T:
+#     Lewis_V:
+#     Mike_F:
+#     Mike_S:
+#     Nedra_F:
+#     Nick_H:
+#     Pat_B:
+#     Ralph_H:
+#     Rod_H:
+#     Ron_F:

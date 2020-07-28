@@ -1,0 +1,152 @@
+---
+#2019 Series 2
+# FYI   LASE = full   LASEM = rad. or mod.
+#
+race:
+  1:
+    wind: 2-3
+    date: 2019_08_11
+    RC:
+      - Rod_H
+      - John_T
+    notes: "I2"
+    skip:
+      Bill_P:
+        time: 34:42
+      Mike_F:
+        time: 33:39
+      Nedra_F:
+        time: 34:17
+      Mike_S:
+        boat: US-1
+        time: 34:27
+      Ian_O:
+        boat: SF
+        time: 39:58
+
+  2:
+    wind: 2-3
+    date: 2019_08_11
+    RC:
+      - Rod_H
+      - John_T
+    notes: "I2"
+    skip:
+      Bill_P:
+        time: 30:03
+      Mike_F:
+        time: 27:17
+      Nedra_F:
+        time: 29:31
+      Mike_S:
+        boat: US-1
+        time: 26:38
+      Ian_O:
+        boat: SF
+        time: 32:38
+
+
+  3:
+    wind: 2-3
+    date: 2019_08_18
+    RC:
+      - Bill_P
+      - Mike_S
+    notes: "M2 Starboard"
+    skip:
+      Ron_F:
+        time: 36:14
+      Rod_H:
+        boat: LASEM
+        time: 39:54
+      Mike_F:
+        time: 40:21
+      David_Bu:
+        time: 41:25
+      John_T:
+        boat: SF
+        time: 41:16
+      Nedra_F:
+        time: 41:38
+      Ian_O:
+        boat: SF
+        time: 49:03
+
+
+  4:
+    wind: 2-3
+    date: 2019_08_18
+    RC:
+      - Bill_P
+      - Mike_S
+    notes: "I2 Port rounding"
+    skip:
+      Ron_F:
+        time: 47:21
+      Rod_H:
+        boat: LASEM
+        time: 57:51
+      Mike_F:
+        time: 44:43
+      David_Bu:
+        time: 52:50
+      John_T:
+        boat: SF
+        time: 52:15
+      Nedra_F:
+        time: 51:46
+      Ian_O:
+        boat: SF
+        time: 64:26
+
+
+#     - Betsy_H
+#     - Chris_E
+#     - Gail_K
+#     - John_T
+#     - Lewis_V
+#     - Mike_K
+#     - Nick_H
+#     - Ralph_H
+#     - Rod_H
+#     - Ron_F
+#     - Steve_R
+#     Art_M:
+#       time: : 
+#     Barry_O:
+#       time: : 
+#     Betsy_H:
+#       time: : 
+#     Bill_P:
+#       time: : 
+#     Chris_E:
+#       time: : 
+#     David_Bu:
+#       time: : 
+#     Eliot_A:
+#       time: : 
+#     Eric_P:
+#       time: : 
+#     Gail_B:
+#       time: : 
+#     John_T:
+#       time: : 
+#     Lewis_V:
+#       time: : 
+#     Mike_F:
+#       time: : 
+#     Mike_S:
+#       time: : 
+#     Nedra_F:
+#       time: : 
+#     Nick_H:
+#       time: : 
+#     Pat_B:
+#       time: : 
+#     Ralph_H:
+#       time: : 
+#     Rod_H:
+#       boat:
+#       time: : 
+#     Ron_F:
+#       time: : 

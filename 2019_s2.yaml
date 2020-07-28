@@ -131,6 +131,109 @@ race:
         boat: LASEM
       Ron_F:
         time: 25:35
+  7:
+    wind: 2-3
+    date: 2019_07_28
+    notes: "M3"
+    RC:
+      - Ron_F
+    skip:
+      Barry_O:
+        time: 39:16
+      Bill_P:
+        time: 36:28
+      David_Bu:
+        time: 35:55
+      Lewis_V:
+        time: 29:01
+      Matt_L:
+        boat: DLPSR
+        time: DNS
+      Jeff:
+        boat: BNSH
+        time: 43:02
+      Pablo:
+        boat: SF
+        time: DNF
+
+  8:
+    wind: 2-3
+    date: 2019_07_28
+    notes: "M2"
+    RC:
+      - Ron_F
+    skip:
+      Barry_O:
+        time: DNS
+      Bill_P:
+        time: 22:26
+      David_Bu:
+        time: 22:06
+      Lewis_V:
+        time: 19:27
+      Matt_L:
+        boat: DLPSR
+        time: 24:20
+      Jeff:
+        boat: BNSH
+        time: DNS
+      Pablo:
+        boat: SF
+        time: DNS
+
+  9:
+    wind: 2-3
+    date: 2019_08_04
+    notes: "M"
+    RC:
+      - Barry_O
+      - Lewis_V
+    skip:
+      Bill_P:
+        time: 25:10
+      David_Bu:
+        time: 26:09
+      Mike_F:
+        time: 25:19
+      Nedra_F:
+        time: DNF
+      Ron_F:
+        time: 25:55
+      David_G:
+        boat: LASE
+        time: 33:09
+      Matt_L:
+        boat: DLPSR
+        time: 42:38
+
+  10:
+    wind: 0-1
+    date: 2019_08_04
+    notes: "M"
+    RC:
+      - Barry_O
+      - Lewis_V
+    skip:
+      Bill_P:
+        time: 37:05
+      David_Bu:
+        time: 37:04
+      John_T:
+        time: 35:53
+        boat: SF
+      Mike_F:
+        time: 34:36
+      Nedra_F:
+        time: DNS
+      Ron_F:
+        time: DNS
+      David_G:
+        boat: LASE
+        time: 35:50
+      Matt_L:
+        boat: DLPSR
+        time: 45:01
+
 
 #     - Betsy_H
 #     - Chris_E

@@ -1,0 +1,130 @@
+---
+#2020 Series 1
+# FYI   LASE = full   LASEM = rad. or mod.
+#
+race:
+  1:
+    wind: 0-1
+    date: 2020_07_19
+    RC:
+      - Mike_S
+      - Rod_H
+    notes: "M2  Starboard Rounding low winds"
+    skip:
+
+      Barry_O:
+        time: 59:16
+      Bill_P:
+        time: 52:47
+      Ian_O:
+        boat: SF
+        time: 60:47
+      Matt_L:
+        boat: DLPSR
+        time: 73:07
+  2:
+    wind: 0-1
+    date: 2020_07_19
+    RC:
+      - Mike_S
+      - Rod_H
+    notes: "M1  Starboard Rounding low winds"
+    skip:
+      Barry_O:
+        time: 37:52
+      Bill_P:
+        time: 23:11
+      Ian_O:
+        boat: SF
+        time: 41:33
+      Matt_L:
+        boat: DLPSR
+        time: 39:26
+
+  3:
+    wind: 2-3
+    date: 2020_07_26
+    RC:
+      - Ron_F
+      - Connie_M
+    notes: "M2  Starboard Rounding"
+    skip:
+      Bill_P:
+        time: 30:58
+      Mike_F:
+        time: 30:10
+      Nedra_F:
+        time: 31:11
+      Rod_H:
+        time: 30:42
+      Matt_L:
+        boat: DLPSR
+        time: 42:47
+      Jim_S:
+        boat: SF
+        time: fip_7
+      Ian_O:
+        boat: SF
+        time: 36:26
+  4:
+    wind: 2-3
+    date: 2020_07_26
+    RC:
+      - Ron_F
+      - Connie_M
+    notes: "M2  Starboard Rounding"
+    skip:
+      Bill_P:
+        time: 34:51
+      Mike_F:
+        time: 35:40
+      Nedra_F:
+        time: 38:23
+      Rod_H:
+        time: 33:19
+      Matt_L:
+        boat: DLPSR
+        time: 40:31
+      Jim_S:
+        boat: SF
+        time: fip_7
+      Ian_O:
+        boat: SF
+        time: 40:21
+        
+        
+
+
+#      
+#     - Betsy_H
+#     - Chris_E
+#     - Gail_K
+#     - John_T
+#     - Lewis_V
+#     - Mike_K
+#     - Nick_H
+#     - Ralph_H
+#     - Rod_H
+#     - Ron_F
+#     - Steve_R
+#
+#     Art_M:
+#     Barry_O:
+#     Betsy_H:
+#     Bill_P:
+#     Chris_E:
+#     David_Bu:
+#     Eliot_A:
+#     Eric_P:
+#     Gail_B:
+#     Ian_O:
+#     John_T:
+#     Lewis_V:
+#     Mike_F:
+#     Mike_S:
+#     Nedra_F:
+#     Nick_H:
+#     Pat_B:
+#     Ralph_H:
+#     Rod_H:
+#     Ron_F:

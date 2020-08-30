@@ -243,6 +243,73 @@ race:
       Matt_L:
         boat: DLPSR
         time: 43:11
+  11:
+    wind: 2-3
+    date: 2020_08_30
+    RC:
+      - Barry_O:
+    notes: "M2 Starboard, RC help from Samantha"
+    skip:
+      Lewis_V:
+        time: 21:02
+      Mike_F:
+        time: 20:56
+      John_T:
+        time: 21:39
+      Nedra_F:
+        time: 23:43
+      Jay_H:
+        time: 25:12
+      Ian_O:
+        time: 26:05
+        boat: SF
+      Bill_P:
+        time: 26:02 
+      Rod_H:
+        time: 26:26
+      Matt_L:
+        boat: DLPSR
+        time: 30:05
+      Jim_S:
+        time: 31:08
+        boat: SF
+      Mark_C:
+        time: 36:33 
+        boat: SF
+
+
+  12:
+    wind: 0-1
+    date: 2020_08_30
+    RC:
+      - Barry_O:
+    notes: "M3 (shortened to 2) Starboard, RC help from Samantha"
+    skip:
+      Mike_F:
+        time: 45:33
+      Ian_O:
+        time: 46:26
+        boat: SF
+      Nedra_F:
+        time: 47:27
+      Bill_P:
+        time: 47:16 
+      Rod_H:
+        time: 48:57
+      Lewis_V:
+        time: 49:05
+      Jim_S:
+        time: 49:39
+        boat: SF
+      Jay_H:
+        time: 49:56
+      Matt_L:
+        boat: DLPSR
+        time: 50:10
+      Mark_C:
+        time: 51:49 
+        boat: SF
+
 
 
 

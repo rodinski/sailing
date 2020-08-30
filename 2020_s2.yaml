@@ -91,11 +91,161 @@ race:
       Ian_O:
         boat: SF
         time: 40:21
+  5:
+    wind: 2-3
+    date: 2020_08_02
+    RC:
+      - Nick_H
+      - Lewis_V
+    notes: "M3  Port Rounding"
+    skip:
+      Barry_O:
+        time: 41:14
+      Bill_P:
+        time: 34:30
+      Mike_F:
+        time: 34:10
+      Nedra_F:
+        time: 34:17
+      Rod_H:
+        time: 33:30
+      Matt_L:
+        boat: DLPSR
+        time: 51:23
+      Jim_S:
+        boat: SF
+        time: 45:22
+      Ian_O:
+        boat: SF
+        time: 41:56
+  6:
+    wind: 2-3
+    date: 2020_08_02
+    RC:
+      - Nick_H
+      - Lewis_V
+    notes: "M3  Port Rounding"
+    skip:
+      Barry_O:
+        time: 37:03
+      Bill_P:
+        time: 30:34
+      Mike_F:
+        time: 29:41
+      Nedra_F:
+        time: 30:06
+      Rod_H:
+        time: 30:14
+      Ron_F:
+        boat: SF
+        time: 33:15
+      Matt_L:
+        boat: DLPSR
+        time: 37:43
+      Jim_S:
+        boat: SF
+        time: 43:51
+      Ian_O:
+        boat: SF
+        time: 39:40
+       
+  7:
+    wind: 0-1
+    date: 2020_08_16
+    RC:
+      - Bill_P
+      - Ian_O
+    notes: "I2"
+    skip:
+      Lewis_V:
+        time: 43:17
+      Mike_F:
+        time: 43:01
+      Mike_S:
+        time: 47:52
+      Nedra_F:
+        time: 43:56
         
-        
+  8:
+    wind: 2-3
+    date: 2020_08_16
+    RC:
+      - Bill_P
+      - Ian_O
+    notes: "M2"
+    skip:
+      Lewis_V:
+        time: 29:27
+      Mike_F:
+        time: 34:02
+      Mike_S:
+        time: 35:07
+      Nedra_F:
+        time: 35:57
+  9:
+    wind: 2-3
+    date: 2020_08_23
+    RC:
+      - Mike_F
+      - Nedra_F
+      - Jim_S
+    notes: "M2 Port rounding dog cove, C cove, back E"
+    skip:
+      Barry_O:
+        time: 44:57
+      Bill_P:
+        time: 33:50 
+      Jay_H:
+        time: 41:20
+      Lewis_V:
+        time: 31:44
+      Mike_S:
+        time: 34:39
+      Rod_H:
+        time: 32:33
+      Ian_O:
+        time: 35:10
+        boat: SF
+      Mark_C:
+        time: 56:18
+        boat: SF
+      Matt_L:
+        boat: DLPSR
+        time: 54:11
+
+  10:
+    wind: 2-3
+    date: 2020_08_23
+    RC:
+      - Mike_F
+      - Nedra_F
+      - Jim_S
+    notes: "M2 Port rounding dog cove, C cove, back E"
+    skip:
+      Barry_O:
+        time: 42:39
+      Bill_P:
+        time: 36:42 
+      Jay_H:
+        time: 41:08
+      Lewis_V:
+        time: 33:11
+      Mike_S:
+        time: 35:38
+      Rod_H:
+        time: 36:44
+      Ian_O:
+        time: 37:10
+        boat: SF
+      Mark_C:
+        time: FIP9
+        boat: SF
+      Matt_L:
+        boat: DLPSR
+        time: 43:11
 
 
-#      
+
 #     - Betsy_H
 #     - Chris_E
 #     - Gail_K

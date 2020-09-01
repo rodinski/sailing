@@ -5,20 +5,22 @@ skip:
     low_n_list:
       - 2
       - 2
+      - 4
+      - 4
       - 5
       - 5
-      - 6
-      - 6
-    low_n_sum: 26
+    low_n_sum: 22
     race:
       1: 2
       10: 5
+      11: RC
+      12: RC
       2: 2
       5: 5
       6: 6
       9: 6
     rc_points: 4
-    rced_races: 0
+    rced_races: 2
   Bill_P:
     finished_races: 10
     low_n_list:
@@ -54,24 +56,6 @@ skip:
       4: RC
     rc_points: na
     rced_races: 2
-  HASH(0x214d2e0):
-    finished_races: 0
-    low_n_list:
-      - na
-    low_n_sum: na
-    race:
-      11: RC
-    rc_points: na
-    rced_races: 1
-  HASH(0x214d520):
-    finished_races: 0
-    low_n_list:
-      - na
-    low_n_sum: na
-    race:
-      12: RC
-    rc_points: na
-    rced_races: 1
   Ian_O:
     finished_races: 10
     low_n_list:

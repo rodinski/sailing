@@ -247,7 +247,7 @@ race:
     wind: 2-3
     date: 2020_08_30
     RC:
-      - Barry_O:
+      - Barry_O
     notes: "M2 Starboard, RC help from Samantha"
     skip:
       Lewis_V:
@@ -282,7 +282,7 @@ race:
     wind: 0-1
     date: 2020_08_30
     RC:
-      - Barry_O:
+      - Barry_O
     notes: "M3 (shortened to 2) Starboard, RC help from Samantha"
     skip:
       Mike_F:

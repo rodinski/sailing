@@ -311,6 +311,55 @@ race:
         boat: SF
 
 
+  13:
+    wind: 2-3
+    date: 2020_09_13
+    RC:
+      - Mike_S
+      - Bill_P
+    notes: "M2"
+    skip:
+      Mike_F:
+        time: 36:02
+      Lewis_V:
+        time: 36:23
+      Nedra_F:
+        time: 38:02
+      Ian_O:
+        time: 44:38
+        boat: SF
+      Matt_L:
+        boat: DLPSR
+        time: 47:13
+      Barry_O:
+        time: 48:22
+      Jay_H:
+        time: 49:01
+
+  14:
+    wind: 2-3
+    date: 2020_09_13
+    RC:
+      - Mike_S
+      - Bill_P
+    notes: "M2"
+    skip:
+      Mike_F:
+        time: 36:05
+      Lewis_V:
+        time: 36:48
+      Nedra_F:
+        time: 38:11
+      Ian_O:
+        time: 42:49
+        boat: SF
+      Matt_L:
+        boat: DLPSR
+        time: 60:38
+      Barry_O:
+        time: 46:31
+      Jay_H:
+        time: 49:28
 
 
 #     - Betsy_H

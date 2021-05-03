@@ -1,0 +1,115 @@
+---
+skip:
+  Bill_P:
+    finished_races: 2
+    low_n_list:
+      - 3
+      - 3
+    low_n_sum: 6
+    race:
+      1: 3
+      2: 4
+      3: RC
+      4: RC
+    rc_points: 3
+    rced_races: 2
+  David_Bu:
+    finished_races: 2
+    low_n_list:
+      - 5
+      - 5
+    low_n_sum: 10
+    race:
+      3: 5
+      4: 5
+    rc_points: 5
+    rced_races: 0
+  Ian_O:
+    finished_races: 4
+    low_n_list:
+      - 5
+      - 5
+    low_n_sum: 10
+    race:
+      1: 5
+      2: 5
+      3: 7
+      4: 7
+    rc_points: 5.7
+    rced_races: 0
+  John_T:
+    finished_races: 2
+    low_n_list:
+      - 4
+      - 4
+    low_n_sum: 8
+    race:
+      1: RC
+      2: RC
+      3: 4
+      4: 4
+    rc_points: 4
+    rced_races: 2
+  Mike_F:
+    finished_races: 4
+    low_n_list:
+      - 1
+      - 1
+    low_n_sum: 2
+    race:
+      1: 1
+      2: 1
+      3: 2
+      4: 1
+    rc_points: 1
+    rced_races: 0
+  Mike_S:
+    finished_races: 2
+    low_n_list:
+      - 2
+      - 2
+    low_n_sum: 4
+    race:
+      1: 4
+      2: 2
+      3: RC
+      4: RC
+    rc_points: 2
+    rced_races: 2
+  Nedra_F:
+    finished_races: 4
+    low_n_list:
+      - 2
+      - 3
+    low_n_sum: 5
+    race:
+      1: 2
+      2: 3
+      3: 6
+      4: 3
+    rc_points: 2.7
+    rced_races: 0
+  Rod_H:
+    finished_races: 2
+    low_n_list:
+      - 3
+      - 3
+    low_n_sum: 6
+    race:
+      1: RC
+      2: RC
+      3: 3
+      4: 6
+    rc_points: 3
+    rced_races: 2
+  Ron_F:
+    finished_races: 2
+    low_n_list:
+      - 1
+      - 2
+    low_n_sum: 3
+    race:
+      3: 1
+      4: 2
+    rc_points: 1
+    rced_races: 0

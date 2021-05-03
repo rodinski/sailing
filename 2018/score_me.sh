@@ -2,7 +2,7 @@
 # run the perl program
 # it has its input files hardcoded into it
 # use the output to make a markdown file
-perl -w race_scorer_v04.pl  2021_s1.yaml  > rs.markdown
+perl -w race_scorer_v04.pl > rs.markdown
 #
 # call the MultiMarkdown program
 # to create an html file that is good for 
@@ -21,13 +21,6 @@ echo ""
 #gdrive upload 2016_s3.yaml
 #gdrive upload 2017_s1.yaml
 #gdrive upload 2017_s3.yaml
-#gdrive upload 2018_s2.yaml
-#gdrive upload 2019_s1.yaml
-#git add 2019_s1.yaml
-#git add 2019_s3.yaml
-#git add 2020_s1.yaml
-#git add 2020_s2.yaml
-git add 2021_s1.yaml
-
+gdrive upload 2018_s2.yaml
 less rs.markdown
 

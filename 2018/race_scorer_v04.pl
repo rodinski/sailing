@@ -16,16 +16,11 @@ use Data::Dumper;
 #  www.JoCoSailing.com
 #
 
-
 my $version_string = "race_scorer_v04.pl version 0.4 coded: 2016_07_25";
 
-my ($bt,$defaults) = LoadFile('./boats_2021.yaml');
+my ($bt,$defaults) = LoadFile('./boats_2018.yaml');
 #  hardcode file
-#
-my $infile = shift @ARGV;
-if (  !$infile  ) { print "need yaml inputfile as command argutment" };
-#my $r =  LoadFile('./2019_s3.yaml');
-my $r =  LoadFile( $infile );
+my $r =  LoadFile('./2018_overall.yaml');
 my $table; #ref to a data structure for later results
 my $races_held = 0;  #counter
 

@@ -1,0 +1,62 @@
+
+---
+#2021 Series 1
+# FYI   LASE = full   LASEM = rad. or mod.
+#
+race:
+  1:
+    wind: 4
+    date: 2021_04_24
+    RC:
+      - Nedra_F
+      - Mike_F
+    notes: "No races due to no fleet"
+    skip:
+  2:
+    wind: 4
+    date: 2021_04_24
+    RC:
+      - Nedra_F
+      - Mike_F
+    notes: "No races due to no fleet"
+    skip:
+  3:
+    wind: 2-3
+    date: 2021_05_02
+    RC:
+      - Ian_O
+      - Nick_H
+    notes: "M2, Starboard rounding"
+    skip:
+      Bill_P:
+          time: 22:43
+      Jim_S:
+          time: 26:15
+      Matt_L:
+          time: 23:39
+      Mike_F:
+          time: 22:10
+      Nedra_F:
+          time: 22:32
+      Rod_H:
+          time: 22:26
+  4:
+    wind: 2-3
+    date: 2021_05_02
+    RC:
+      - Ian_O
+      - Nick_H
+    notes: "M2, Starboard rounding"
+    skip:
+      Bill_P:
+          time: 22:34
+      Jim_S:
+          time: 30:20
+      Matt_L:
+          time: 26:33
+      Mike_F:
+          time: 22:09
+      Nedra_F:
+          time: 24:57
+      Rod_H:
+          time: 22:53

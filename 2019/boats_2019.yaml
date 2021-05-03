@@ -173,6 +173,16 @@ boat:
       4:      101.0
       5-9:     97.3
 
+  APOL:
+    full_name: Apollo c/b (15'9")
+    short_name: APOL
+    hc_of_wind:
+      D-PH:   92.4
+      0-1:    96.6
+      2-3:    94.4
+      4:      90.0
+      5-9:    89.10
+
 ---
 name:
   Art_M:
@@ -205,6 +215,7 @@ name:
   Ralph_H:
     boat: SF
   Rod_H:
+    boat: LASEM 
   Ron_F:
     boat: F5
   Stacy_O:
@@ -245,3 +256,7 @@ name:
     boat: HTR216
   Xavier:
     boat: SWSX
+  Aaron_?:
+    boat: APOL
+  Matt_L:
+    boat: DLPSR 

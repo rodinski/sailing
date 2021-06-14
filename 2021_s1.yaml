@@ -35,11 +35,11 @@ race:
       Matt_L:
           time: 23:39
       Mike_F:
-          time: 22:10
+          time: 21:16
       Nedra_F:
-          time: 22:32
+          time: 21:32
       Rod_H:
-          time: 22:26
+          time: 21:26
   4:
     wind: 2-3
     date: 2021_05_02
@@ -60,3 +60,160 @@ race:
           time: 24:57
       Rod_H:
           time: 22:53
+  5:
+    wind: 2-3
+    date: 2021_05_09
+    RC:
+      - Rod_H
+      - Matt_L
+    notes: "No race due to thunderstorms"
+    skip:
+  6:
+    wind: 2-3
+    date: 2021_05_09
+    RC:
+      - Rod_H
+      - Matt_L
+    notes: "No race due to thunderstorms"
+    skip:
+  7:
+    wind: 2-3
+    date: 2021_05_23
+    RC:
+      - Bill_P
+      - Dave_Bu
+    notes: "M2 Starboard Rounding"
+    skip:
+      Barry_O: 
+          time: 40:05
+      Ian_O:
+          boat: SF
+          time: 37:04
+      Matt_L:
+          time: 47:12
+      Mike_F:
+          time: 36:15
+      Nedra_F:
+          time: 36:50
+      Rod_H:
+          time: 36:22
+  8:
+    wind: 2-3
+    date: 2021_05_23
+    RC:
+      - Bill_P
+      - Dave_Bu
+    notes: "M2 Starboard Rounding"
+    skip:
+      Barry_O: 
+          time: 34:31
+      Ian_O:
+          boat: SF
+          time: 34:45
+      Matt_L:
+          time: 39:07
+      Mike_F:
+          time: 32:27
+      Nedra_F:
+          time: 32:30
+      Rod_H:
+          time: 32:50
+  9:
+    wind: 2-3
+    date: 2021_06_06
+    RC:
+      - Barry_O
+      - Jim_S
+    notes: "M2 Starboard Rounding"
+    skip:
+      Bill_P:
+          time: 28:32
+      Chris_E:
+          time: 30:07
+      David_Bu:
+          time: 28:35
+      Ian_O:
+          boat: SF
+          time: 27:47
+      Lewis_V:  
+          time: 23:31
+      Matt_L:
+          time: 30:29
+      Mike_F:
+          time: 25:57
+      Nedra_F:
+          time: 27:38
+      Rod_H:
+          time: 26:51
+  10:
+    wind: 2-3
+    date: 2021_06_06
+    RC:
+      - Barry_O
+      - Jim_S
+    notes: "M2 Starboard Rounding"
+    skip:
+      Bill_P:
+          time: 26:59
+      Chris_E:
+          time: 27:15
+      David_Bu:
+          time: 26:02
+      Ian_O:
+          boat: SF
+          time: 26:49
+      Lewis_V:  
+          time: 23:54
+      Matt_L:
+          time: 28:54
+      Mike_F:
+          time: 23:55
+      Nedra_F:
+          time: 24:06
+      Rod_H:
+          time: 24:13
+  11:
+    wind: 2-3
+    date: 2021_06_13
+    RC:
+      - Lewis_V
+      - Nick_H
+    notes: "M2 Port Rounding, thin course"
+    skip:
+      Bill_P:
+          time: 34:31
+      David_Bu:
+          time: 36:28
+      Ian_O:
+          boat: SF
+          time: 34:25
+      Mike_F:
+          time: 33:53
+      Nedra_F:
+          time: 36:00
+      Rod_H:
+          time: 32:41
+      Shawn_W:
+          boat: BUT
+          time: FIP7
+  12:
+    wind: 2-3
+    date: 2021_06_13
+    RC:
+      - Lewis_V
+      - Nick_H
+    notes: "M2 Port Rounding, thin course"
+    skip:
+      Bill_P:
+          time: 34:57
+      David_Bu:
+          time: 34:11
+      Ian_O:
+          boat: SF
+          time: 33:59
+      Mike_F:
+          time: 31:55
+      Nedra_F:
+          time: 33:20
+      Rod_H:
+          time: 31:01

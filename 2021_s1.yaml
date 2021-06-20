@@ -216,4 +216,51 @@ race:
       Nedra_F:
           time: 33:20
       Rod_H:
-          time: 31:01
+  13:
+    wind: 2-3
+    date: 2021_06_20
+    RC:
+      - Rod_H
+      - Ian_O
+    notes: "M3 Starboard rounding"
+    skip:
+      Bill_P:
+          time: 27:48
+      Chris_E:
+          time: 30:45
+      David_Bu:
+          time: 32:33
+      Lewis_V:
+          time: 26:27
+      Matt_L:
+          time: 32:01
+      Mike_F:
+          time: 26:35
+      Nedra_F:
+          time: 29:52
+      Shawn_W:
+          boat: BUT
+          time: DNF
+
+  14:
+    wind: 2-3
+    date: 2021_06_20
+    RC:
+      - Rod_H
+      - Ian_O
+    notes: "M4 Starboard rounding"
+    skip:
+      Bill_P:
+          time: 42:15
+      Chris_E:
+          time: 43:47
+      David_Bu:
+          time: 42:08
+      Lewis_V:
+          time: 40:20
+      Matt_L:
+          time: 45:22
+      Mike_F:
+          time: 40:10
+      Nedra_F:
+          time: 42:52

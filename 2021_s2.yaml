@@ -1,0 +1,61 @@
+
+---
+#2021 Series 2
+# FYI   LASE = full   LASEM = rad. or mod.
+#
+race:
+  1:
+    wind: 2-3
+    date: 2021_07_18
+    RC:
+      - Lewis_V
+      - Chris_E
+    notes: "I-2 with gate"
+    skip:
+      Barry_O: 
+        time: 33:14
+      Bill_P:
+        time: 27:30
+      Ian_O:
+        time: 28:35
+        boat: SF
+      Matt_L:
+        time: 31:59
+      Mike_F:
+        time: 25:45
+      Nedra_F:
+        time: 32:33
+      Rod_H:
+        time: 25:25
+      Craig_J:
+        boat: SF
+        time: 37:09
+      Dennis:
+        boat: SF
+        time: DNF
+  2:
+    wind: 0-1
+    date: 2021_07_18
+    RC:
+      - Lewis_V
+      - Chris_E
+    notes: "I-1 with gate"
+    skip:
+      Barry_O: 
+        time: 20:09
+      Bill_P:
+        time: 16:15
+      Ian_O:
+        time: 21:45
+        boat: SF
+      Matt_L:
+        time: 22:50
+      Mike_F:
+        time: 18:30
+      Nedra_F:
+        time: 19:30
+      Rod_H:
+        time: 17:35
+      Dennis:
+        boat: SF
+        time: 24:05

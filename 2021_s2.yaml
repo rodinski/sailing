@@ -59,3 +59,40 @@ race:
       Dennis:
         boat: SF
         time: 24:05
+  3:
+    wind: 0-1
+    date: 2021_07_25
+    RC:
+      - David_Bu
+      - Nick_H
+    notes: "???"
+    skip:
+      Bill_P:
+        time: 21:30
+      Ian_O:
+        time: 21:46
+        boat: SF
+      Jim_S:
+        time: FIP_4
+      Mike_F:
+        time: 21:00
+      Dennis:
+        boat: SF
+        time: DNF
+  4:
+    wind: 2-3
+    date: 2021_07_25
+    RC:
+      - David_Bu
+      - Nick_H
+    notes: "???"
+    skip:
+      Bill_P:
+        time: 16:34
+      Ian_O:
+        time: 16:45
+        boat: SF
+      Jim_S:
+        time: 23:04
+      Mike_F:
+        time: 16:22

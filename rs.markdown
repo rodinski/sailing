@@ -1,6 +1,7 @@
 ## All results are unofficial
 [Top](#top) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Results](#Results)  
 [Race1](#Race1)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Race2](#Race2)  
+[Race3](#Race3)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Race4](#Race4)  
 
 ---- <a name="Race1"></a>  
 ##Race 1
@@ -44,32 +45,71 @@ Notes: I-1 with gate
      Dennis     SF   24:05   1445 /  1.03 = 1403   23:23   8  
 </code></pre>
 [Top](#top) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Results](#Results)  
+
+---- <a name="Race3"></a>  
+##Race 3
+<pre><code>
+ Wind: 0-1 (BFT)  
+   RC: David_Bu, Nick_H  
+ Date: 2021_07_25  
+Notes: ???  
+                    a_time                        c_time   
+       Name   Boat   mm:ss   sec  /   hc  =c_sec   mm:ss  Rank  
+-----------   ----   -----   -------------------   -----  ----  
+     Mike_F     SF   21:00   1260 /  1.03 = 1223   20:23   1  
+     Bill_P     SF   21:30   1290 /  1.03 = 1252   20:52   2  
+      Ian_O     SF   21:46   1306 /  1.03 = 1268   21:08   3  
+      Jim_S     SF   FIP_4      0 /  1.03 =    0   FIP_4   4  
+     Dennis     SF     DNF      0 /  1.03 =    0     DNF   5  
+</code></pre>
+[Top](#top) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Results](#Results)  
+
+---- <a name="Race4"></a>  
+##Race 4
+<pre><code>
+ Wind: 2-3 (BFT)  
+   RC: David_Bu, Nick_H  
+ Date: 2021_07_25  
+Notes: ???  
+                    a_time                        c_time   
+       Name   Boat   mm:ss   sec  /   hc  =c_sec   mm:ss  Rank  
+-----------   ----   -----   -------------------   -----  ----  
+     Mike_F     SF   16:22    982 / 1.004 =  978   16:18   1  
+     Bill_P     SF   16:34    994 / 1.004 =  990   16:30   2  
+      Ian_O     SF   16:45   1005 / 1.004 = 1001   16:41   3  
+      Jim_S     SF   23:04   1384 / 1.004 = 1378   22:58   4  
+</code></pre>
+[Top](#top) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Results](#Results)  
 ----
 
 <a name="Results"></a>
 
 #Results  
 <pre><code>
-             Races Held: 2  
-Races Needed to Qualify: 1  
+             Races Held: 4  
+Races Needed to Qualify: 2  
    Name / Boat          Race  
-               1   2   RCpt     PTS
-              --  --  
-     Bill_P    3   1     1 |    1= 1  
-     Mike_F    1   4     1 |    1= 1  
-      Rod_H    2   2     2 |    2= 2  
-    Barry_O    6   3     3 |    3= 3  
-      Ian_O    4   7     4 |    4= 4  
-    Nedra_F    7   5     5 |    5= 5  
-     Matt_L    5   6     5 |    5= 5  
-     Dennis    9   8     8 |    8= 8  
-    Craig_J    8   -     8 |    8= 8  
-    Chris_E   RC  RC    na |   na= na  
-    Lewis_V   RC  RC    na |   na= na  
+               1   2   3   4   RCpt     PTS
+              --  --  --  --  
+     Mike_F    1   4   1   1     1 |    2= 1 1  
+     Bill_P    3   1   2   2   1.7 |    3= 1 2  
+      Rod_H    2   2   -   -     2 |    4= 2 2  
+      Ian_O    4   7   3   3   3.3 |    6= 3 3  
+      Jim_S    -   -   4   4     4 |    8= 4 4  
+    Barry_O    6   3   -   -     3 |    9= 3 6  
+     Matt_L    5   6   -   -     5 |   11= 5 6  
+    Nedra_F    7   5   -   -     5 |   12= 5 7  
+     Dennis    9   8   5   -   6.5 |   13= 5 8  
+    Chris_E   RC  RC   -   -    na |   na= na  
+    Craig_J    8   -   -   -     8 |  DNQ= DNQ  
+   David_Bu    -   -  RC  RC    na |   na= na  
+    Lewis_V   RC  RC   -   -    na |   na= na  
+     Nick_H    -   -  RC  RC    na |   na= na  
 </code></pre>
 
 [Top](#top) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Results](#Results)  
 [Race1](#Race1)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Race2](#Race2)  
+[Race3](#Race3)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Race4](#Race4)  
 
 
 race_scorer_v04.pl version 0.4 coded: 2016_07_25

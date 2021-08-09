@@ -61,8 +61,8 @@ Notes: ???
      Mike_F     SF   21:00   1260 /  1.03 = 1223   20:23   1  
      Bill_P     SF   21:30   1290 /  1.03 = 1252   20:52   2  
       Ian_O     SF   21:46   1306 /  1.03 = 1268   21:08   3  
-      Jim_S     SF   FIP_4      0 /  1.03 =    0   FIP_4   4  
    Dennis_S     SF     DNF      0 /  1.03 =    0     DNF   5  
+      Jim_S     SF   FIP_4      0 /  1.03 =    0   FIP_4   4  
 </code></pre>
 [Top](#top) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Results](#Results)  
 
@@ -165,9 +165,9 @@ Notes: M3 shortened to M1
      Mike_F     SF   45:55   2755 / 1.004 = 2744   45:44   1  
      Matt_F     SF   46:38   2798 / 1.004 = 2787   46:27   2  
    David_Bu     SF   46:47   2807 / 1.004 = 2796   46:36   3  
-      Rod_H  LASEM   45:58   2758 / 0.973 = 2835   47:15   4  
-    Lewis_V    BCN   41:27   2487 /  0.87 = 2859   47:39   5  
-    Nedra_F     SF   47:98   2918 / 1.004 = 2906   48:26   6  
+    Nedra_F     SF   47:08   2828 / 1.004 = 2817   46:57   4  
+      Rod_H  LASEM   45:58   2758 / 0.973 = 2835   47:15   5  
+    Lewis_V    BCN   41:27   2487 /  0.87 = 2859   47:39   6  
      Matt_L  DLPSR   59:04   3544 / 1.086 = 3263   54:23   7  
       Jim_S     SF   60:23   3623 / 1.004 = 3609   60:09   8  
 </code></pre>
@@ -185,12 +185,12 @@ Races Needed to Qualify: 4
               --  --  --  --  --  --  --  --  
      Mike_F    1   4   1   1  RC  RC   3   1   1.4 |    4= 1 1 1 1  
      Bill_P    3   1   2   2   2   3  RC  RC     2 |    7= 1 2 2 2  
-      Rod_H    2   2   -   -   5   1   6   4   2.8 |    9= 1 2 2 4  
+      Rod_H    2   2   -   -   5   1   6   5     3 |   10= 1 2 2 5  
       Ian_O    4   7   3   3   3   2  RC  RC     3 |   11= 2 3 3 3  
      Matt_L    5   6   -   -   1   9   1   7     4 |   13= 1 1 5 6  
    David_Bu    -   -  RC  RC   7   6   4   3   4.3 | 15.6= 3 4 4.3 4.3  
-    Lewis_V   RC  RC   -   -   4   4   7   5   4.3 | 16.6= 4 4 4.3 4.3  
-    Nedra_F    7   5   -   -  RC  RC   5   6   5.3 | 20.6= 5 5 5.3 5.3  
+    Lewis_V   RC  RC   -   -   4   4   7   6   4.7 | 17.4= 4 4 4.7 4.7  
+    Nedra_F    7   5   -   -  RC  RC   5   4   4.7 | 18.4= 4 4.7 4.7 5  
     Chris_E   RC  RC   -   -   6   5   -   -     5 |   21= 5 5 5 6  
       Jim_S    -   -   4   4   8   7   8   8   6.2 |   23= 4 4 7 8  
    Dennis_S    9   8   5   -  10  11   -   -     8 |   32= 5 8 9 10  

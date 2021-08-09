@@ -30,7 +30,7 @@ race:
       Craig_J:
         boat: SF
         time: 37:09
-      Dennis:
+      Dennis_S:
         boat: SF
         time: DNF
   2:
@@ -56,7 +56,7 @@ race:
         time: 19:30
       Rod_H:
         time: 17:35
-      Dennis:
+      Dennis_S:
         boat: SF
         time: 24:05
   3:
@@ -76,7 +76,7 @@ race:
         time: FIP_4
       Mike_F:
         time: 21:00
-      Dennis:
+      Dennis_S:
         boat: SF
         time: DNF
   4:
@@ -96,3 +96,119 @@ race:
         time: 23:04
       Mike_F:
         time: 16:22
+  5:
+    wind: 2-3
+    date: 2021_08_01
+    RC:
+      - Mike_F
+      - Nedra_F
+    notes: "M2 port rounding Wind out of the N"
+    skip:
+      Bill_P:
+        time: 24:18
+      Chris_E:
+        time: 25:26
+      David_Bu:
+        time: 25:30
+      Ian_O:
+        time: 24:38
+      Jim_S:
+        time: 26:17
+      Lewis_V:
+        time: 21:27
+      Matt_L:
+        time: 25:29
+      Rod_H:
+        time: 24:35
+      Craig_J:
+        time: 35:55
+        boat: SF
+      Dennis_S: 
+        time: 32:47
+        boat: SF
+      Ryan_C:
+        time: 26:55
+        boat: SF
+  6:
+    wind: 2-3
+    date: 2021_08_01
+    RC:
+      - Mike_F
+      - Nedra_F
+    notes: "M3 port rounding Wind out of the N"
+    skip:
+      Bill_P:
+        time: 32:53
+      Chris_E:
+        time: 35:10
+      David_Bu:
+        time: 35:26
+      Ian_O:
+        time: 32:39
+      Jim_S:
+        time: 36:45
+      Lewis_V:
+        time: 30:10
+      Matt_L:
+        time: 43:48
+      Rod_H:
+        time: 30:19
+      Craig_J:
+        time: 37:50
+        boat: SF
+      Dennis_S: 
+        time: 47:36
+        boat: SF
+      Ryan_C:
+        time: 40:35
+        boat: SF
+  7:
+    wind: 0-1
+    date: 2021_08_08
+    RC:
+      - Bill_P
+      - Ian_O
+    notes: "M3 shortened to M1"
+    skip:
+      Rod_H:
+        time: 36:09
+      David_Bu:
+        time: 36:41
+      Jim_S:
+        time: 43:31
+      Lewis_V:
+        time: 36:26
+      Matt_L:
+        time: 38:02
+      Mike_F:
+        time: 36:24
+      Nedra_F:
+        time: 36:42
+      Matt_F:
+        boat: SF
+        time: 36:10
+  8:
+    wind: 2-3
+    date: 2021_08_08
+    RC:
+      - Bill_P
+      - Ian_O
+    notes: "M3 shortened to M1"
+    skip:
+      Rod_H:
+        time: 45:58
+      David_Bu:
+        time: 46:47
+      Jim_S:
+        time: 60:23
+      Lewis_V:
+        time: 41:27
+      Matt_L:
+        time: 59:04
+      Mike_F:
+        time: 45:55
+      Nedra_F:
+        time: 47:98
+      Matt_F:
+        boat: SF
+        time: 46:38

@@ -212,3 +212,190 @@ race:
       Matt_F:
         boat: SF
         time: 46:38
+  9:
+    wind: 2-3
+    date: 2021_08_15
+    RC:
+      - Rod_H
+      - Matt_L
+    notes: "M3"
+    skip:
+      Bill_P:
+        time: 33:34
+      Chris_E:
+        time: 32:51
+      David_Bu:
+        time: 33:18
+      Ian_O:
+        time: 33:57
+      Jim_S:
+        time: 43:03
+      Lewis_V:
+        time: 29:48
+      Mike_F:
+        time: 32:19
+      Nedra_F:
+        time: 33:50
+      Chris_H:
+        boat: LASE
+        time: 30:33
+  10:
+    wind: 2-3
+    date: 2021_08_15
+    RC:
+      - Rod_H
+      - Matt_L
+    notes: "M3"
+    skip:
+      Bill_P:
+        time: 40:35
+      Chris_E:
+        time: 42:15
+      David_Bu:
+        time: 39:54
+      Ian_O:
+        time: 39:19
+      Jim_S:
+        time: 47:50
+      Lewis_V:
+        time: 31:54
+      Mike_F:
+        time: 40:10
+      Nedra_F:
+        time: 41:23
+      Chris_H:
+        boat: LASE
+        time: 40:53
+  11:
+    wind: 2-3
+    date: 2021_08_22
+    RC:
+      - Ian_O
+      - Jim_S
+    notes: "M3 Starboard"
+    skip:
+      Barry_O:
+        time: 37:09
+      Bill_P:
+        time: 32:13
+      David_Bu:
+        time: 33:17
+      Jay_H:
+        time: 38:08
+      Lewis_V:
+        time: 28:40
+      Matt_L:
+        time: 38:39
+      Mike_F:
+        time: 31:30
+      Nedra_F:
+        time: 33:27
+      Dennis_S:
+        time: DNF
+        boat: SF
+      Chris_H:
+        time: 30:50
+        boat: LASE
+      Ryan_C:
+        time: 42:02
+        boat: SF
+  12:
+    wind: 2-3
+    date: 2021_08_22
+    RC:
+      - Ian_O
+      - Jim_S
+    notes: "M3 Starboard"
+    skip:
+      Barry_O:
+        time: 36:28
+      Bill_P:
+        time: 35:33
+      David_Bu:
+        time: 35:22
+      Jay_H:
+        time: 43:36
+      Lewis_V:
+        time: 31:31
+      Matt_L:
+        time: 41:43
+      Mike_F:
+        time: 34:57
+      Nedra_F:
+        time: 35:42
+      Dennis_S:
+        time: DNF
+        boat: SF
+      Chris_H:
+        time: 32:15
+        boat: LASE
+      Ryan_C:
+        time: 46:18
+        boat: SF
+        
+  13:
+    wind: 2-3
+    date: 2021_08_29
+    RC:
+      - Lewis_V
+      - Nick_H
+    notes: "M3 Port"
+    skip:
+      Barry_O:
+        time: 25:33
+      Bill_P:
+        time: 25:26
+      David_Bu:
+        time: 24:50
+      Matt_L:
+        time: 26:18
+      Mike_F:
+        time: 23:44
+      Nedra_F:
+        time: 24:11
+      Chris_H:
+        time: 23:53
+        boat: LASE
+      Ryan_C:
+        time: 28:45
+        boat: SF
+      Jim_S:
+        time: 26:55
+        boat: SF
+      Ian_O:
+        time: 25:47
+      Rod_H:
+        time: 24:41
+  14:
+    wind: 2-3
+    date: 2021_08_29
+    RC:
+      - Lewis_V
+      - Nick_H
+    notes: "M4 Port"
+    skip:
+      Barry_O:
+        time: 44:55
+      Bill_P:
+        time: 40:51
+      David_Bu:
+        time: 43:35
+      Matt_L:
+        time: 41:25
+      Mike_F:
+        time: 38:29
+      Nedra_F:
+        time: 41:54
+      Chris_H:
+        time: 36:54
+        boat: LASE
+      Ryan_C:
+        time: 51:43
+        boat: SF
+      Jim_S:
+        time: 49:01
+        boat: SF
+      Ian_O:
+        time: 40:55
+      Rod_H:
+        time: 40:07

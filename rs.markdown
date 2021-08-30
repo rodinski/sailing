@@ -4,6 +4,9 @@
 [Race3](#Race3)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Race4](#Race4)  
 [Race5](#Race5)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Race6](#Race6)  
 [Race7](#Race7)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Race8](#Race8)  
+[Race9](#Race9)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Race10](#Race10)  
+[Race11](#Race11)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Race12](#Race12)  
+[Race13](#Race13)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Race14](#Race14)  
 
 ---- <a name="Race1"></a>  
 ##Race 1
@@ -172,33 +175,175 @@ Notes: M3 shortened to M1
       Jim_S     SF   60:23   3623 / 1.004 = 3609   60:09   8  
 </code></pre>
 [Top](#top) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Results](#Results)  
+
+---- <a name="Race9"></a>  
+##Race 9
+<pre><code>
+ Wind: 2-3 (BFT)  
+   RC: Rod_H, Matt_L  
+ Date: 2021_08_15  
+Notes: M3  
+                    a_time                        c_time   
+       Name   Boat   mm:ss   sec  /   hc  =c_sec   mm:ss  Rank  
+-----------   ----   -----   -------------------   -----  ----  
+     Mike_F     SF   32:19   1939 / 1.004 = 1931   32:11   1  
+    Chris_E     SF   32:51   1971 / 1.004 = 1963   32:43   2  
+    Chris_H   LASE   30:33   1833 / 0.923 = 1986   33:06   3  
+   David_Bu     SF   33:18   1998 / 1.004 = 1990   33:10   4  
+     Bill_P     SF   33:34   2014 / 1.004 = 2006   33:26   5  
+    Nedra_F     SF   33:50   2030 / 1.004 = 2022   33:42   6  
+      Ian_O     SF   33:57   2037 / 1.004 = 2029   33:49   7  
+    Lewis_V    BCN   29:48   1788 /  0.87 = 2055   34:15   8  
+      Jim_S     SF   43:03   2583 / 1.004 = 2573   42:53   9  
+</code></pre>
+[Top](#top) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Results](#Results)  
+
+---- <a name="Race10"></a>  
+##Race 10
+<pre><code>
+ Wind: 2-3 (BFT)  
+   RC: Rod_H, Matt_L  
+ Date: 2021_08_15  
+Notes: M3  
+                    a_time                        c_time   
+       Name   Boat   mm:ss   sec  /   hc  =c_sec   mm:ss  Rank  
+-----------   ----   -----   -------------------   -----  ----  
+    Lewis_V    BCN   31:54   1914 /  0.87 = 2200   36:40   1  
+      Ian_O     SF   39:19   2359 / 1.004 = 2350   39:10   2  
+   David_Bu     SF   39:54   2394 / 1.004 = 2384   39:44   3  
+     Mike_F     SF   40:10   2410 / 1.004 = 2400   40:00   4  
+     Bill_P     SF   40:35   2435 / 1.004 = 2425   40:25   5  
+    Nedra_F     SF   41:23   2483 / 1.004 = 2473   41:13   6  
+    Chris_E     SF   42:15   2535 / 1.004 = 2525   42:05   7  
+    Chris_H   LASE   40:53   2453 / 0.923 = 2658   44:18   8  
+      Jim_S     SF   47:50   2870 / 1.004 = 2859   47:39   9  
+</code></pre>
+[Top](#top) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Results](#Results)  
+
+---- <a name="Race11"></a>  
+##Race 11
+<pre><code>
+ Wind: 2-3 (BFT)  
+   RC: Ian_O, Jim_S  
+ Date: 2021_08_22  
+Notes: M3 Starboard  
+                    a_time                        c_time   
+       Name   Boat   mm:ss   sec  /   hc  =c_sec   mm:ss  Rank  
+-----------   ----   -----   -------------------   -----  ----  
+     Mike_F     SF   31:30   1890 / 1.004 = 1882   31:22   1  
+     Bill_P     SF   32:13   1933 / 1.004 = 1925   32:05   2  
+    Lewis_V    BCN   28:40   1720 /  0.87 = 1977   32:57   3  
+   David_Bu     SF   33:17   1997 / 1.004 = 1989   33:09   4  
+    Barry_O  HLR14   37:09   2229 / 1.117 = 1996   33:16   5  
+    Nedra_F     SF   33:27   2007 / 1.004 = 1999   33:19   6  
+    Chris_H   LASE   30:50   1850 / 0.923 = 2004   33:24   7  
+     Matt_L  DLPSR   38:39   2319 / 1.086 = 2135   35:35   8  
+      Jay_H   SWSX   38:08   2288 / 0.959 = 2386   39:46   9  
+     Ryan_C     SF   42:02   2522 / 1.004 = 2512   41:52   10  
+   Dennis_S     SF     DNF      0 / 1.004 =    0     DNF   11  
+</code></pre>
+[Top](#top) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Results](#Results)  
+
+---- <a name="Race12"></a>  
+##Race 12
+<pre><code>
+ Wind: 2-3 (BFT)  
+   RC: Ian_O, Jim_S  
+ Date: 2021_08_22  
+Notes: M3 Starboard  
+                    a_time                        c_time   
+       Name   Boat   mm:ss   sec  /   hc  =c_sec   mm:ss  Rank  
+-----------   ----   -----   -------------------   -----  ----  
+    Barry_O  HLR14   36:28   2188 / 1.117 = 1959   32:39   1  
+     Mike_F     SF   34:57   2097 / 1.004 = 2089   34:49   2  
+    Chris_H   LASE   32:15   1935 / 0.923 = 2096   34:56   3  
+   David_Bu     SF   35:22   2122 / 1.004 = 2114   35:14   4  
+     Bill_P     SF   35:33   2133 / 1.004 = 2125   35:25   5  
+    Nedra_F     SF   35:42   2142 / 1.004 = 2133   35:33   6  
+    Lewis_V    BCN   31:31   1891 /  0.87 = 2174   36:14   7  
+     Matt_L  DLPSR   41:43   2503 / 1.086 = 2305   38:25   8  
+      Jay_H   SWSX   43:36   2616 / 0.959 = 2728   45:28   9  
+     Ryan_C     SF   46:18   2778 / 1.004 = 2767   46:07   10  
+   Dennis_S     SF     DNF      0 / 1.004 =    0     DNF   11  
+</code></pre>
+[Top](#top) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Results](#Results)  
+
+---- <a name="Race13"></a>  
+##Race 13
+<pre><code>
+ Wind: 2-3 (BFT)  
+   RC: Lewis_V, Nick_H  
+ Date: 2021_08_29  
+Notes: M3 Port  
+                    a_time                        c_time   
+       Name   Boat   mm:ss   sec  /   hc  =c_sec   mm:ss  Rank  
+-----------   ----   -----   -------------------   -----  ----  
+    Barry_O  HLR14   25:33   1533 / 1.117 = 1372   22:52   1  
+     Mike_F     SF   23:44   1424 / 1.004 = 1418   23:38   2  
+    Nedra_F     SF   24:11   1451 / 1.004 = 1445   24:05   3  
+     Matt_L  DLPSR   26:18   1578 / 1.086 = 1453   24:13   4  
+   David_Bu     SF   24:50   1490 / 1.004 = 1484   24:44   5  
+     Bill_P     SF   25:26   1526 / 1.004 = 1520   25:20   6  
+      Rod_H  LASEM   24:41   1481 / 0.973 = 1522   25:22   7  
+      Ian_O     SF   25:47   1547 / 1.004 = 1541   25:41   8  
+    Chris_H   LASE   23:53   1433 / 0.923 = 1553   25:53   9  
+      Jim_S     SF   26:55   1615 / 1.004 = 1609   26:49   10  
+     Ryan_C     SF   28:45   1725 / 1.004 = 1718   28:38   11  
+</code></pre>
+[Top](#top) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Results](#Results)  
+
+---- <a name="Race14"></a>  
+##Race 14
+<pre><code>
+ Wind: 2-3 (BFT)  
+   RC: Lewis_V, Nick_H  
+ Date: 2021_08_29  
+Notes: M4 Port  
+                    a_time                        c_time   
+       Name   Boat   mm:ss   sec  /   hc  =c_sec   mm:ss  Rank  
+-----------   ----   -----   -------------------   -----  ----  
+     Matt_L  DLPSR   41:25   2485 / 1.086 = 2288   38:08   1  
+     Mike_F     SF   38:29   2309 / 1.004 = 2300   38:20   2  
+    Chris_H   LASE   36:54   2214 / 0.923 = 2399   39:59   3  
+    Barry_O  HLR14   44:55   2695 / 1.117 = 2413   40:13   4  
+     Bill_P     SF   40:51   2451 / 1.004 = 2441   40:41   5  
+      Ian_O     SF   40:55   2455 / 1.004 = 2445   40:45   6  
+      Rod_H  LASEM   40:07   2407 / 0.973 = 2474   41:14   7  
+    Nedra_F     SF   41:54   2514 / 1.004 = 2504   41:44   8  
+   David_Bu     SF   43:35   2615 / 1.004 = 2605   43:25   9  
+      Jim_S     SF   49:01   2941 / 1.004 = 2929   48:49   10  
+     Ryan_C     SF   51:43   3103 / 1.004 = 3091   51:31   11  
+</code></pre>
+[Top](#top) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Results](#Results)  
 ----
 
 <a name="Results"></a>
 
 #Results  
 <pre><code>
-             Races Held: 8  
-Races Needed to Qualify: 4  
+             Races Held: 14  
+Races Needed to Qualify: 7  
    Name / Boat          Race  
-               1   2   3   4   5   6   7   8   RCpt     PTS
-              --  --  --  --  --  --  --  --  
-     Mike_F    1   4   1   1  RC  RC   3   1   1.4 |    4= 1 1 1 1  
-     Bill_P    3   1   2   2   2   3  RC  RC     2 |    7= 1 2 2 2  
-      Rod_H    2   2   -   -   5   1   6   5     3 |   10= 1 2 2 5  
-      Ian_O    4   7   3   3   3   2  RC  RC     3 |   11= 2 3 3 3  
-     Matt_L    5   6   -   -   1   9   1   7     4 |   13= 1 1 5 6  
-   David_Bu    -   -  RC  RC   7   6   4   3   4.3 | 15.6= 3 4 4.3 4.3  
-    Lewis_V   RC  RC   -   -   4   4   7   6   4.7 | 17.4= 4 4 4.7 4.7  
-    Nedra_F    7   5   -   -  RC  RC   5   4   4.7 | 18.4= 4 4.7 4.7 5  
-    Chris_E   RC  RC   -   -   6   5   -   -     5 |   21= 5 5 5 6  
-      Jim_S    -   -   4   4   8   7   8   8   6.2 |   23= 4 4 7 8  
-   Dennis_S    9   8   5   -  10  11   -   -     8 |   32= 5 8 9 10  
-    Barry_O    6   3   -   -   -   -   -   -     3 |  DNQ= DNQ  
-    Craig_J    8   -   -   -  11   8   -   -     8 |  DNQ= DNQ  
-     Matt_F    -   -   -   -   -   -   2   2     2 |  DNQ= DNQ  
-     Nick_H    -   -  RC  RC   -   -   -   -    na |   na= na  
-     Ryan_C    -   -   -   -   9  10   -   -     9 |  DNQ= DNQ  
+               1   2   3   4   5   6   7   8   9  10  11  12  13  14   RCpt     PTS
+              --  --  --  --  --  --  --  --  --  --  --  --  --  --  
+     Mike_F    1   4   1   1  RC  RC   3   1   1   4   1   2   2   2   1.7 |  7.7= 1 1 1 1 1 1 1.7  
+     Bill_P    3   1   2   2   2   3  RC  RC   5   5   2   5   6   5   3.2 |   15= 1 2 2 2 2 3 3  
+      Ian_O    4   7   3   3   3   2  RC  RC   7   2  RC  RC   8   6   4.1 | 21.1= 2 2 3 3 3 4 4.1  
+     Matt_L    5   6   -   -   1   9   1   7  RC  RC   8   8   4   1   4.6 | 21.2= 1 1 1 4 4.6 4.6 5  
+      Rod_H    2   2   -   -   5   1   6   5  RC  RC   -   -   7   7     4 |   23= 1 2 2 4 4 5 5  
+   David_Bu    -   -  RC  RC   7   6   4   3   4   3   4   4   5   9   4.4 | 26.4= 3 3 4 4 4 4 4.4  
+    Lewis_V   RC  RC   -   -   4   4   7   6   8   1   3   7  RC  RC   4.6 | 27.2= 1 3 4 4 4.6 4.6 6  
+    Nedra_F    7   5   -   -  RC  RC   5   4   6   6   6   6   3   8   5.3 | 33.6= 3 4 5 5 5.3 5.3 6  
+      Jim_S    -   -   4   4   8   7   8   8   9   9  RC  RC  10  10   7.4 | 45.8= 4 4 7 7.4 7.4 8 8  
+   Dennis_S    9   8   5   -  10  11   -   -   -   -  11  11   -   -     9 |   65= 5 8 9 10 11 11 11  
+    Barry_O    6   3   -   -   -   -   -   -   -   -   5   1   1   4   2.8 |  DNQ= DNQ  
+    Chris_E   RC  RC   -   -   6   5   -   -   2   7   -   -   -   -   4.3 |  DNQ= DNQ  
+    Chris_H    -   -   -   -   -   -   -   -   3   8   7   3   9   3   4.8 |  DNQ= DNQ  
+    Craig_J    8   -   -   -  11   8   -   -   -   -   -   -   -   -     8 |  DNQ= DNQ  
+      Jay_H    -   -   -   -   -   -   -   -   -   -   9   9   -   -     9 |  DNQ= DNQ  
+     Matt_F    -   -   -   -   -   -   2   2   -   -   -   -   -   -     2 |  DNQ= DNQ  
+     Nick_H    -   -  RC  RC   -   -   -   -   -   -   -   -  RC  RC    na |   na= na  
+     Ryan_C    -   -   -   -   9  10   -   -   -   -  10  10  11  11    10 |  DNQ= DNQ  
 </code></pre>
 
 [Top](#top) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Results](#Results)  
@@ -206,6 +351,9 @@ Races Needed to Qualify: 4
 [Race3](#Race3)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Race4](#Race4)  
 [Race5](#Race5)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Race6](#Race6)  
 [Race7](#Race7)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Race8](#Race8)  
+[Race9](#Race9)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Race10](#Race10)  
+[Race11](#Race11)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Race12](#Race12)  
+[Race13](#Race13)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Race14](#Race14)  
 
 
 race_scorer_v04.pl version 0.4 coded: 2016_07_25
